@@ -1,0 +1,261 @@
+{
+  "dealership": "Vancouver Honda",
+  "generated_at": "2026-09-26T08:22:13",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "CR-V Hybrid EX-L AWD2024 Honda",
+      "vin": "2HKRS6H72RH210752",
+      "stock": "H261232",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/cb49bfba332d.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39177845",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39177845?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:48:14",
+      "odometer_km": 15366,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Hybrid Touring AWD2026 Honda",
+      "vin": "2HKRS6H99TH237794",
+      "stock": "H261254",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/2ae2e093e515.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39246388",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39246388?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:48:29",
+      "odometer_km": 6572,
+      "condition": "used"
+    },
+    {
+      "name": "HR-V Sport-B AWD CVT2024 Honda",
+      "vin": "3CZRZ2H50RM110379",
+      "stock": "H27019A",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/dfbb571e7532.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39055855",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39055855?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:48:49",
+      "odometer_km": 19338,
+      "condition": "used"
+    },
+    {
+      "name": "HR-V LX AWD CVT2025 Honda",
+      "vin": "3CZRZ2H33SM110199",
+      "stock": "H261097",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/140151083f36.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:49:04",
+      "odometer_km": 51228,
+      "condition": "used"
+    },
+    {
+      "name": "HR-V Sport AWD CVT2025 Honda",
+      "vin": "3CZRZ2H5XSM105146",
+      "stock": "H27078A",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/084038d582a5.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39254358",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39254358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:49:17",
+      "odometer_km": 10837,
+      "condition": "used"
+    },
+    {
+      "name": "Odyssey Black Edition2024 Honda",
+      "vin": "5FNRL6H08RB501397",
+      "stock": "H217004",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/be0be2b766a2.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39184513",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39184513?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:49:34",
+      "odometer_km": 37654,
+      "condition": "used"
+    },
+    {
+      "name": "Odyssey Sport-L Auto2025 Honda",
+      "vin": "5FNRL6H73SB501133",
+      "stock": "H217004",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/2bfcbec833eb.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246387",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246387?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:49:48",
+      "odometer_km": 17548,
+      "condition": "used"
+    },
+    {
+      "name": "Odyssey Black Edition Auto2025 Honda",
+      "vin": "5FNRL6H00SB503229",
+      "stock": "H261237",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8cef767189d1.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246389",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246389?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:50:01",
+      "odometer_km": 23931,
+      "condition": "used"
+    },
+    {
+      "name": "Passport TrailSport Touring AWD2026 Honda",
+      "vin": "5FNYF9H81TB506782",
+      "stock": "H216007",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/2237d9ccfce2.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/passport/2026-honda-passport-id39207195",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/passport/2026-honda-passport-id39207195?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:50:17",
+      "odometer_km": 8096,
+      "condition": "used"
+    },
+    {
+      "name": "Pilot TrailSport AWD2024 Honda",
+      "vin": "5FNYG1H60RB502194",
+      "stock": "H213005",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/947312917b3b.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/pilot/2024-honda-pilot-id39012601",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/pilot/2024-honda-pilot-id39012601?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:50:32",
+      "odometer_km": 33514,
+      "condition": "used"
+    },
+    {
+      "name": "Pilot TrailSport AWD2025 Honda",
+      "vin": "5FNYG1H69SB500868",
+      "stock": "H216007",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/70b1c39bb2d7.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/pilot/2025-honda-pilot-id39254362",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/pilot/2025-honda-pilot-id39254362?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:50:48",
+      "odometer_km": 39640,
+      "condition": "used"
+    },
+    {
+      "name": "Prologue Touring AWD2024 Honda",
+      "vin": "3GPKHZRJ6RS501819",
+      "stock": "H26672A",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/475f1b702505.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/prologue/2024-honda-prologue-id38137393",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/prologue/2024-honda-prologue-id38137393?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:51:04",
+      "odometer_km": 21506,
+      "condition": "used"
+    },
+    {
+      "name": "Civic Hybrid SPORT TOURING2026 Honda",
+      "vin": "2HGFE4F8XTH017695",
+      "stock": "H126176",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/092eb3c5ea28.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39080625?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39080625?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:19:11",
+      "condition": "new"
+    },
+    {
+      "name": "Civic SPORT2026 Honda",
+      "vin": "2HGFE2F55TH114667",
+      "stock": "26H912",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e1dd68f5b53f.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id38798147?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id38798147?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:19:26",
+      "condition": "new"
+    },
+    {
+      "name": "Civic LX2026 Honda",
+      "vin": "2HGFE2F26TH112853",
+      "stock": "H261191",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c5394165c7fe.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id39018102?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id39018102?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:19:42",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H73VH201472",
+      "stock": "H27035",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/98d4d12a416e.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150510?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150510?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:19:56",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H79VH202061",
+      "stock": "27H073",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6c56c585c84c.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39184565?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39184565?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:20:11",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TRAILSPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H65VH202632",
+      "stock": "H27072",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/1b271d9bbbb0.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192004?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192004?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:20:26",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H52VH202546",
+      "stock": "H27070",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/918a6022158f.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192018?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192018?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:20:41",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V LX AWD2026 Honda",
+      "vin": "2HKRS4H22TH107654",
+      "stock": "H26777",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6ae98542da43.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38272152?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38272152?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:20:57",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V LX 2WD2026 Honda",
+      "vin": "2HKRS3H24TH000969",
+      "stock": "H261039",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a8ef9bf3b78e.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38734766?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38734766?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:21:13",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V SPORT2027 Honda",
+      "vin": "3CZRZ2H52VM104836",
+      "stock": "H27018",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b70ed842b7a9.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38834885?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38834885?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:21:27",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V SPORT2027 Honda",
+      "vin": "3CZRZ2H59VM100945",
+      "stock": "H27030",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/097889f46fbe.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id39068988?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id39068988?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:21:43",
+      "condition": "new"
+    },
+    {
+      "name": "Passport TRAILSPORT TOURING2026 Honda",
+      "vin": "5FNYF9H84TB508901",
+      "stock": "26H1122",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a714ec1202d3.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/passport/2026-honda-passport-id39223258?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/passport/2026-honda-passport-id39223258?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T08:21:57",
+      "condition": "new"
+    }
+  ]
+}
