@@ -1,7 +1,7 @@
 {
   "dealership": "Vancouver Honda",
-  "generated_at": "2026-10-18T01:08:07",
-  "vehicle_count": 1213,
+  "generated_at": "2026-10-18T01:35:48",
+  "vehicle_count": 1280,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12629,6 +12629,18 @@
     },
     {
       "name": "Accord Hybrid TOURING2026 Honda",
+      "vin": "1HGCY2F83TA801777",
+      "stock": "H261025",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/2c14c28d8c24.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id38713582",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id38713582?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:14:36",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Accord Hybrid TOURING2026 Honda",
       "vin": "1HGCY2F85TA801831",
       "stock": "26H895",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/df168ef631a4.html",
@@ -12725,6 +12737,30 @@
     },
     {
       "name": "Accord Hybrid TOURING2026 Honda",
+      "vin": "1HGCY2F87TA802110",
+      "stock": "26H1084",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/86c74f27e092.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39095699",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39095699?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:14:51",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Accord Hybrid TOURING2026 Honda",
+      "vin": "1HGCY2F84TA802257",
+      "stock": "H261224",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e20f28d6c299.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39116674",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39116674?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:15:05",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Accord Hybrid TOURING2026 Honda",
       "vin": "1HGCY2F8XTA802330",
       "stock": "26H1102",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/cd67d2c9413c.html",
@@ -12755,6 +12791,42 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39297511",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39297511?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:50:58",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Accord Hybrid TOURING2026 Honda",
+      "vin": "1HGCY2F84TA802422",
+      "stock": "H261287",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/379e020c3689.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39297514",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39297514?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:15:21",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Accord Hybrid SPORT-L2026 Honda",
+      "vin": "1HGCY2F74TA802508",
+      "stock": "26H529",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c19b5128d497.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39302904",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39302904?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:15:37",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Accord Hybrid SPORT-L2026 Honda",
+      "vin": "1HGCY2F80TA802417",
+      "stock": "26H1142",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/50c71bca2f32.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39302905",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39302905?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:15:51",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -12871,6 +12943,18 @@
       "name": "Civic Hybrid SPORT TOURING2026 Honda",
       "vin": "2HGFE4F87TH012440",
       "stock": "H261000",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/15201a13b857.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id38664271",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id38664271?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:16:07",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid SPORT TOURING2026 Honda",
+      "vin": "2HGFE4F87TH012440",
+      "stock": "H261000",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c42e83a88768.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id38664271?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id38664271?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -12940,13 +13024,15 @@
       "province": "BC"
     },
     {
-      "name": "Civic Hybrid SPORT TOURING2026 Honda",
-      "vin": "2HGFE4F8XTH017695",
-      "stock": "H126176",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "1HGCY2F87TA802141",
+      "stock": "H261209",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/092eb3c5ea28.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39080625?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39080625?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:19:11",
+      "last_verified": "2026-10-18T01:33:36",
+      "price": 49982.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -12995,6 +13081,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39223248",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39223248?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:55:42",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid SPORT TOURING2026 Honda",
+      "vin": "2HGFE4F82TH020428",
+      "stock": "26H1121",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/9f5646a14026.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39223270",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39223270?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:16:23",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13055,6 +13153,42 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39260924",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39260924?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:56:57",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid SPORT TOURING2026 Honda",
+      "vin": "2HGFE4F86TH020609",
+      "stock": "26H1137",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f73d94c48fdf.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39260927",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39260927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:16:38",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid SPORT TOURING2026 Honda",
+      "vin": "2HGFE4F80TH020119",
+      "stock": "26H1136",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/42a4f785d463.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39267837",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39267837?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:16:54",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid SPORT2026 Honda",
+      "vin": "2HGFE2F57TH118395",
+      "stock": "26H418",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/cc952cd9f9be.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39302909",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39302909?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:17:09",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13156,6 +13290,18 @@
       "province": "BC"
     },
     {
+      "name": "Civic Si Si2026 Honda",
+      "vin": "2HGFE1E5XTH081189",
+      "stock": "H126111",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/1f42452c81dd.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-si/2026-honda-civic-si-id38628663",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic-si/2026-honda-civic-si-id38628663?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:17:23",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Civic SPORT2026 Honda",
       "vin": "2HGFE2F50TH112566",
       "stock": "H26871",
@@ -13168,13 +13314,15 @@
       "province": "BC"
     },
     {
-      "name": "Civic SPORT2026 Honda",
-      "vin": "2HGFE2F55TH114667",
-      "stock": "26H912",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "1HGCY2F87TA802141",
+      "stock": "H261209",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e1dd68f5b53f.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id38798147?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id38798147?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:19:26",
+      "last_verified": "2026-10-18T01:33:55",
+      "price": 49982.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13192,13 +13340,15 @@
       "province": "BC"
     },
     {
-      "name": "Civic LX2026 Honda",
-      "vin": "2HGFE2F26TH112853",
-      "stock": "H261191",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "1HGCY2F87TA802141",
+      "stock": "H261209",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c5394165c7fe.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id39018102?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id39018102?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:19:42",
+      "last_verified": "2026-10-18T01:34:15",
+      "price": 49982.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13228,6 +13378,18 @@
       "province": "BC"
     },
     {
+      "name": "Civic SPORT2026 Honda",
+      "vin": "2HGFE2F59TH111500",
+      "stock": "26H414",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d50ab99897d9.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id39297608",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2026-honda-civic-id39297608?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:17:39",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Civic LX2027 Honda",
       "vin": "2HGFE2F29VH100022",
       "stock": "H27101",
@@ -13235,6 +13397,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2027-honda-civic-id39360363",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2027-honda-civic-id39360363?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:00:18",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F29VH100022",
+      "stock": "H27101",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/45ffe36b9db4.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2027-honda-civic-id39360363?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/civic/2027-honda-civic-id39360363?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:17:53",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13329,12 +13503,37 @@
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H57TH224751",
+      "stock": "H126147",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/3d3e88fce10f.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id37832807",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id37832807?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:18:08",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
       "vin": "2HKRS6H59TH231393",
       "stock": "H26619",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/27192a413155.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38041705",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38041705?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:02:20",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H58TH231532",
+      "stock": "H126115",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/9a843c9e588d.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38197628",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38197628?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:18:24",
+      "odometer_km": 2103,
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13405,6 +13604,19 @@
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H56TH238009",
+      "stock": "H26793",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/af3f0366d8ce.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38301347?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38301347?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:18:38",
+      "odometer_km": 1230,
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
       "vin": "2HKRS6H52TH236922",
       "stock": "H126169",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d939b71679d0.html",
@@ -13464,6 +13676,18 @@
       "province": "BC"
     },
     {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H5XTH244458",
+      "stock": "26H868",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/9d01773fbbaa.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38635634",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38635634?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:18:53",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
       "vin": "2HKRS6H52TH244440",
       "stock": "26H867",
@@ -13471,6 +13695,30 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38635635",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38635635?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:05:07",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
+      "vin": "2HKRS6H73TH235747",
+      "stock": "H126157",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e3203a73ef10.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38657071",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38657071?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:19:09",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
+      "vin": "2HKRS6H76TH240683",
+      "stock": "26H934",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8c3fd2114d09.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38834936",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38834936?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:19:22",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13513,12 +13761,36 @@
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H54TH248344",
+      "stock": "H261101",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/68c024f13a23.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38860734?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38860734?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:19:38",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
       "vin": "2HKRS6H50TH248342",
       "stock": "H261100",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c6460c3512d1.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38860735",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38860735?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:06:11",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H57TH247219",
+      "stock": "H126172",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/82935fc4e8e8.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38908544",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38908544?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:19:52",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13537,12 +13809,60 @@
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H51TH248124",
+      "stock": "H126181",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d7292f33a8c8.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38945295",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38945295?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:20:06",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
       "vin": "2HKRS6H5XTH251068",
       "stock": "H261171",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/edf02e1af8aa.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38953540",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38953540?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:06:41",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H53TH251073",
+      "stock": "H261172",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/7872db5c87db.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38953545",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38953545?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:20:22",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
+      "vin": "2HKRS6H79TH248633",
+      "stock": "H126186",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/4cac5132608d.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38974694",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38974694?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:20:38",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H54TH251289",
+      "stock": "H261178",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/ddc8a81fe1fd.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38991888",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id38991888?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:20:56",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13597,6 +13917,18 @@
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H58TH251439",
+      "stock": "H126114",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/341efba0bb6b.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39185130",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39185130?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:21:11",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
       "vin": "2HKRS6H58TH236729",
       "stock": "H126167",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/5c4741c6e8c4.html",
@@ -13615,6 +13947,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39185135",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39185135?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:08:14",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H59TH251420",
+      "stock": "H126114",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/35791f2362e4.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39185137",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39185137?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:21:26",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13668,13 +14012,27 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
-      "vin": "2HKRS6H73VH201472",
-      "stock": "H27035",
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H55VH201116",
+      "stock": "H27033",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/4b45e14379e9.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150508",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150508?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:21:41",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "1HGCY2F87TA802141",
+      "stock": "H261209",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/98d4d12a416e.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150510?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150510?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:19:56",
+      "last_verified": "2026-10-18T01:34:31",
+      "price": 49982.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13699,6 +14057,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150513",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150513?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:09:41",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H53VH201759",
+      "stock": "H27049",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/14a8492e6ff6.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150513?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39150513?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:21:57",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13824,6 +14194,18 @@
       "province": "BC"
     },
     {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H54VH201690",
+      "stock": "27H064",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/598730126a60.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39174607",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39174607?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:22:13",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
       "vin": "2HKRS6H76VH201191",
       "stock": "27H069",
@@ -13863,10 +14245,34 @@
       "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
       "vin": "2HKRS6H79VH202061",
       "stock": "27H073",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6bbc7e4699fa.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39184565",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39184565?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:22:28",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H79VH202061",
+      "stock": "27H073",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6c56c585c84c.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39184565?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39184565?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:20:11",
+      "last_verified": "2026-10-18T01:34:47",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H76VH200381",
+      "stock": "H127103",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f463b7743419.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191893",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191893?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:22:44",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13908,13 +14314,15 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Hybrid TRAILSPORT HYBRID2027 Honda",
-      "vin": "2HKRS6H65VH202632",
-      "stock": "H27072",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "1HGCY2F87TA802141",
+      "stock": "H261209",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/1b271d9bbbb0.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192004?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192004?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:20:26",
+      "last_verified": "2026-10-18T01:35:04",
+      "price": 49982.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13974,7 +14382,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/918a6022158f.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192018?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39192018?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:20:41",
+      "last_verified": "2026-10-18T01:35:20",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13999,6 +14407,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39223249",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39223249?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:15:06",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H94VH201353",
+      "stock": "27H088",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/7e65eb5cfcb3.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39223252",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39223252?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:22:59",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14041,6 +14461,18 @@
     },
     {
       "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H71VH202720",
+      "stock": "27H082",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b96689e794db.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39223260",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39223260?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:23:13",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
       "vin": "2HKRS6H77VH202320",
       "stock": "27H080",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/2bcaa7acdffa.html",
@@ -14059,6 +14491,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39223271",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39223271?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:16:21",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H76VH201840",
+      "stock": "H27080",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/85462ff79423.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39246392",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39246392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:23:27",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14112,6 +14556,18 @@
       "province": "BC"
     },
     {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H5XVH203864",
+      "stock": "H27088",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/ae41fc80681d.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297509",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297509?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:23:43",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H98VH204188",
       "stock": "H27090",
@@ -14125,12 +14581,48 @@
     },
     {
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H96VH204190",
+      "stock": "H27091",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b550e2271185.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297518",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297518?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:23:59",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H57VH201411",
+      "stock": "H27058",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e9fc67c494cc.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302882",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:24:14",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H96VH202701",
       "stock": "27H097",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/85f4a8b09e0b.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302910",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302910?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:17:51",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H72VH204721",
+      "stock": "27H095",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/1cfe1add7c66.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302911",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302911?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:24:30",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14172,6 +14664,30 @@
       "province": "BC"
     },
     {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H99VH204197",
+      "stock": "27H099",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d825a8b4bf7b.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39305254",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39305254?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:24:48",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H78VH203086",
+      "stock": "H27081",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/7f1b95c436c8.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39308888",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39308888?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:25:03",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
       "vin": "2HKRS6H55VH204680",
       "stock": "H27096",
@@ -14203,6 +14719,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39308894",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39308894?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:19:23",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H92VH205451",
+      "stock": "H27106",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/02a257126cc3.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39340748",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39340748?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:25:18",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14251,6 +14779,30 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39340757",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39340757?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:20:23",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H9XVH205438",
+      "stock": "H27104",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/0ea25e0aef59.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39340757?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39340757?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:25:33",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H79VH201833",
+      "stock": "27H104",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f6157e8f126c.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39340835",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39340835?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:25:50",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14452,6 +15004,18 @@
       "name": "CR-V SPORT2026 Honda",
       "vin": "2HKRS4H57TH111841",
       "stock": "H26750",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/58dc72466877.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38227406",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38227406?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:26:07",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V SPORT2026 Honda",
+      "vin": "2HKRS4H57TH111841",
+      "stock": "H26750",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f9fb883b79dc.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38227406?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38227406?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -14503,7 +15067,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6ae98542da43.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38272152?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38272152?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:20:57",
+      "last_verified": "2026-10-18T01:35:36",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14606,12 +15170,36 @@
     },
     {
       "name": "CR-V SPORT2026 Honda",
+      "vin": "2HKRS4H51TH115450",
+      "stock": "H126154",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/accffc763a09.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38628643",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38628643?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:26:22",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V SPORT2026 Honda",
       "vin": "2HKRS4H51TH115447",
       "stock": "H126154",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/65e6d0d5b325.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38628645",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38628645?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:27:41",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V SPORT2026 Honda",
+      "vin": "2HKRS4H53TH114753",
+      "stock": "H126147",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/83812be42252.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38628655",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38628655?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:26:39",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14732,6 +15320,30 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38945297",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38945297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:29:59",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V SPORT2026 Honda",
+      "vin": "2HKRS4H58TH118362",
+      "stock": "H126183",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/898e00de2257.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38945297?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38945297?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:26:52",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V LX AWD2026 Honda",
+      "vin": "2HKRS4H26TH117751",
+      "stock": "H126177",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6588133050a4.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38974697",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/cr-v/2026-honda-cr-v-id38974697?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:27:07",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14869,6 +15481,18 @@
       "province": "BC"
     },
     {
+      "name": "HR-V EX-L2027 Honda",
+      "vin": "3CZRZ2H75VM100880",
+      "stock": "27H002",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d835ab98bd74.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38462839",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38462839?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:27:26",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "HR-V SPORT2027 Honda",
       "vin": "3CZRZ2H57VM102774",
       "stock": "H27008",
@@ -14888,6 +15512,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38691338",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38691338?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:33:13",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V SPORT2027 Honda",
+      "vin": "3CZRZ2H55VM103065",
+      "stock": "H127130",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b7dab98ac4ee.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38706103",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38706103?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:27:42",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14968,10 +15604,34 @@
       "name": "HR-V SPORT2027 Honda",
       "vin": "3CZRZ2H52VM104836",
       "stock": "H27018",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/27b6235cb684.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38834885",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38834885?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:27:56",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V SPORT2027 Honda",
+      "vin": "3CZRZ2H52VM104836",
+      "stock": "H27018",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b70ed842b7a9.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38834885?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38834885?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T08:21:27",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V SPORT2027 Honda",
+      "vin": "3CZRZ2H53VM104702",
+      "stock": "H127147",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/7fa6c5aab91d.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953767",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953767?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:28:10",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14996,6 +15656,30 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959499",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959499?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:35:21",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V LX 4WD2027 Honda",
+      "vin": "3CZRZ2H31VM104969",
+      "stock": "H127149",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/655354e18cd2.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959502",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959502?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:28:24",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V SPORT2027 Honda",
+      "vin": "3CZRZ2H53VM105008",
+      "stock": "H127150",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/0c3e004d67b3.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38974696",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38974696?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:28:38",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -15170,6 +15854,30 @@
     },
     {
       "name": "HR-V LX 4WD2027 Honda",
+      "vin": "3CZRZ2H34VM107171",
+      "stock": "H27085",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/4e391acf9b3b.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id39281643",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id39281643?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:28:54",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V LX 4WD2027 Honda",
+      "vin": "3CZRZ2H38VM107187",
+      "stock": "27H103",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6f6840ae2f83.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id39308957",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/hr-v/2027-honda-hr-v-id39308957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:29:09",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V LX 4WD2027 Honda",
       "vin": "3CZRZ2H33VM102026",
       "stock": "H27100",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8065d6f321c6.html",
@@ -15194,12 +15902,36 @@
     },
     {
       "name": "Odyssey Black Edition2026 Honda",
+      "vin": "5FNRL6H05TB502661",
+      "stock": "26H760",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a67b86a49af6.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2026-honda-odyssey-id38372954",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2026-honda-odyssey-id38372954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:29:25",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Black Edition2026 Honda",
       "vin": "5FNRL6H03TB502660",
       "stock": "H126226",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/50657fab3a6e.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2026-honda-odyssey-id38509045",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2026-honda-odyssey-id38509045?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:39:30",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Touring2026 Honda",
+      "vin": "5FNRL6H8XTB502760",
+      "stock": "H126227",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8c1e28814e5a.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2026-honda-odyssey-id39034338",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2026-honda-odyssey-id39034338?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:29:41",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -15325,6 +16057,18 @@
       "province": "BC"
     },
     {
+      "name": "Odyssey Sport-L2027 Honda",
+      "vin": "5FNRL6H70VB500073",
+      "stock": "H27052",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/ec4c695129c6.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39150511",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39150511?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:29:57",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Odyssey Touring2027 Honda",
       "vin": "5FNRL6H89VB500470",
       "stock": "H27042",
@@ -15374,12 +16118,48 @@
     },
     {
       "name": "Odyssey Sport-L2027 Honda",
+      "vin": "5FNRL6H74VB500738",
+      "stock": "H27076",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/eed24961f12d.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39192017",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39192017?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:30:11",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Sport-L2027 Honda",
       "vin": "5FNRL6H7XVB500937",
       "stock": "H27092",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/28c8644ff09b.html",
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39297520",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39297520?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:43:11",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Black Edition2027 Honda",
+      "vin": "5FNRL6H85VB501017",
+      "stock": "27H102",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/0ee64b641e01.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39305251",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39305251?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:30:27",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Touring2027 Honda",
+      "vin": "5FNRL6H81VB500611",
+      "stock": "H27099",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8984df114e49.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39325400",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39325400?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:30:43",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -15445,6 +16225,18 @@
       "province": "BC"
     },
     {
+      "name": "Passport TRAILSPORT TOURING2026 Honda",
+      "vin": "5FNYF9H83TB508856",
+      "stock": "26H1143",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8b3b07daacd2.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/passport/2026-honda-passport-id39302908",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/passport/2026-honda-passport-id39302908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:30:56",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Pilot TOURING2026 Honda",
       "vin": "5FNYG1H73TB500598",
       "stock": "26H485",
@@ -15501,6 +16293,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/pilot/2026-honda-pilot-id39102062",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/pilot/2026-honda-pilot-id39102062?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:45:32",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Pilot TOURING2026 Honda",
+      "vin": "5FNYG1H7XTB503658",
+      "stock": "26H1095",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/da7580395e1c.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/pilot/2026-honda-pilot-id39116715",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/pilot/2026-honda-pilot-id39116715?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:31:12",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -15573,6 +16377,18 @@
       "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/ridgeline/2026-honda-ridgeline-id39137596?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/ridgeline/2026-honda-ridgeline-id39137596?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:47:06",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Ridgeline Trailsport2026 Honda",
+      "vin": "5FPYK3F68TB502715",
+      "stock": "H126127",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c1248f83539c.html",
+      "source_url": "https://www.vancouverhonda.com/en/new-inventory/honda/ridgeline/2026-honda-ridgeline-id39163792",
+      "dealer_url": "https://www.vancouverhonda.com/en/new-inventory/honda/ridgeline/2026-honda-ridgeline-id39163792?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T01:31:28",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
