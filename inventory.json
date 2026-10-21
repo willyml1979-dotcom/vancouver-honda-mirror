@@ -1,7 +1,7 @@
 {
   "dealership": "Vancouver Honda",
-  "generated_at": "2026-10-20T14:52:06",
-  "vehicle_count": 1299,
+  "generated_at": "2026-10-20T20:16:23",
+  "vehicle_count": 1307,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -14,32 +14,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/adx/2025-acura-adx-id38726369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T01:04:20",
       "odometer_km": 9464,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "ADX Platinum Elite A-Spec2025 Acura",
-      "vin": "3HDSA2H76SM100900",
-      "stock": "A260132",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/a242d810e192.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/acura/adx/2025-acura-adx-id39254462",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/adx/2025-acura-adx-id39254462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T01:04:35",
-      "odometer_km": 33213,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "ILX | Rebuilt Title | Premium Features | Exceptional V2016 Acura",
-      "vin": "19UDE2F7XGA801804",
-      "stock": "A12C015",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/4a42f85a28de.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/acura/ilx/2016-acura-ilx-id39360561",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/ilx/2016-acura-ilx-id39360561?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T00:53:57",
-      "odometer_km": 118783,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -79,6 +53,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/integra/2024-acura-integra-id38746828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T01:05:18",
       "odometer_km": 41796,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Type S 6MT2024 Acura",
+      "vin": "19UDE5G92RA800425",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/e682fb690eea.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/acura/integra/2024-acura-integra-id39102898",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/integra/2024-acura-integra-id39102898?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:00:14",
+      "odometer_km": 22763,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -213,6 +200,19 @@
       "province": "BC"
     },
     {
+      "name": "MDX Type S2023 Acura",
+      "vin": "5J8YD8H86PL800070",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/2ab6f9496f03.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/acura/mdx/2023-acura-mdx-id39387510",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/mdx/2023-acura-mdx-id39387510?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:00:30",
+      "odometer_km": 45750,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "MDX Platinum Elite SH-AWD2024 Acura",
       "vin": "5J8YE1H83RL801975",
       "stock": "A113013",
@@ -221,6 +221,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/mdx/2024-acura-mdx-id39375248?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T00:54:12",
       "odometer_km": 44290,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-Spec SH-AWD2024 Acura",
+      "vin": "5J8YE1H08RL803120",
+      "stock": "A260109",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/81c5bad3d80d.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/acura/mdx/2024-acura-mdx-id39387394",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/mdx/2024-acura-mdx-id39387394?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:00:45",
+      "odometer_km": 61881,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -265,19 +278,6 @@
       "province": "BC"
     },
     {
-      "name": "MDX A-Spec SH-AWD2025 Acura",
-      "vin": "5J8YE1H07SL803485",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/7ed4eac6812d.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T02:47:37",
-      "odometer_km": 11360,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "MDX Tech SH-AWD2026 Acura",
       "vin": "5J8YE1H40TL802876",
       "stock": "A12C017",
@@ -286,6 +286,34 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/mdx/2026-acura-mdx-id39222577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T02:47:52",
       "odometer_km": 3819,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RDX Tech at2014 Acura",
+      "vin": "5J8TB4H54EL801603",
+      "stock": "H261243",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/93384bc34c00.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/acura/rdx/2014-acura-rdx-id39387342",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/rdx/2014-acura-rdx-id39387342?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:01:01",
+      "price": 12995.0,
+      "price_currency": "CAD",
+      "odometer_km": 226334,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RDX Elite at2017 Acura",
+      "vin": "5J8TB4H79HL801375",
+      "stock": "A260031",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/c910f3583727.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/acura/rdx/2017-acura-rdx-id39387514",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/acura/rdx/2017-acura-rdx-id39387514?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:01:17",
+      "odometer_km": 112206,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -639,7 +667,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/280d6530b7c3.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q5/2023-audi-q5-id39174616",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q5/2023-audi-q5-id39174616?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:43:20",
+      "last_verified": "2026-10-20T20:12:27",
       "odometer_km": 46381,
       "condition": "used",
       "city": "Vancouver",
@@ -652,7 +680,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/5d01e80cb40d.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:43:36",
+      "last_verified": "2026-10-20T20:12:42",
       "odometer_km": 54299,
       "condition": "used",
       "city": "Vancouver",
@@ -665,7 +693,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/4926fe48157a.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q7/2015-audi-q7-id39332919",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q7/2015-audi-q7-id39332919?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:44:04",
+      "last_verified": "2026-10-20T20:12:58",
       "price": 21188.0,
       "price_currency": "CAD",
       "odometer_km": 91008,
@@ -680,7 +708,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/18718c93e9ea.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q7/2017-audi-q7-id39290045",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q7/2017-audi-q7-id39290045?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:44:22",
+      "last_verified": "2026-10-20T20:13:13",
       "odometer_km": 163339,
       "condition": "used",
       "city": "Vancouver",
@@ -693,7 +721,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/4f730235f92b.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q7/2019-audi-q7-id39354335",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q7/2019-audi-q7-id39354335?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:44:39",
+      "last_verified": "2026-10-20T20:13:28",
       "odometer_km": 99605,
       "condition": "used",
       "city": "Vancouver",
@@ -706,7 +734,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6b736d3c7e31.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q8/2019-audi-q8-id39332473",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q8/2019-audi-q8-id39332473?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:44:55",
+      "last_verified": "2026-10-20T20:13:44",
       "odometer_km": 66025,
       "condition": "used",
       "city": "Vancouver",
@@ -719,21 +747,8 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/5ed120258ec0.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q8/2025-audi-q8-id38604622",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/q8/2025-audi-q8-id38604622?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:45:09",
+      "last_verified": "2026-10-20T20:14:01",
       "odometer_km": 33599,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RS 3 2.5 TFSI quattro w/Carbon Optic Plus Package2025 Audi",
-      "vin": "WUAGWCGY5SA910995",
-      "stock": "A22F002",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/69ef0880b18a.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-3/2025-audi-rs-3-id39223220",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-3/2025-audi-rs-3-id39223220?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:45:25",
-      "odometer_km": 4469,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -745,7 +760,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/cc283d1281ce.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-5-sportback/2024-audi-rs-5-sportback-id39229086",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-5-sportback/2024-audi-rs-5-sportback-id39229086?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:45:40",
+      "last_verified": "2026-10-20T20:14:18",
       "odometer_km": 39487,
       "condition": "used",
       "city": "Vancouver",
@@ -758,7 +773,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/52d2ab1fe43a.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-6-avant/2021-audi-rs-6-avant-id39158035",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-6-avant/2021-audi-rs-6-avant-id39158035?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:45:55",
+      "last_verified": "2026-10-20T20:14:34",
       "odometer_km": 82450,
       "condition": "used",
       "city": "Vancouver",
@@ -771,7 +786,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/292127fc95b3.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-6-avant/2023-audi-rs-6-avant-id39222669",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-6-avant/2023-audi-rs-6-avant-id39222669?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:46:11",
+      "last_verified": "2026-10-20T20:14:51",
       "odometer_km": 53260,
       "condition": "used",
       "city": "Vancouver",
@@ -784,7 +799,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/2c0754b7a8be.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-6-avant/2024-audi-rs-6-avant-id38900790",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-6-avant/2024-audi-rs-6-avant-id38900790?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:46:27",
+      "last_verified": "2026-10-20T20:15:07",
       "odometer_km": 54800,
       "condition": "used",
       "city": "Vancouver",
@@ -797,7 +812,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/1d4aad6c8279.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-7-sportback/2021-audi-rs-7-sportback-id39140521",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-7-sportback/2021-audi-rs-7-sportback-id39140521?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:46:41",
+      "last_verified": "2026-10-20T20:15:24",
       "odometer_km": 76082,
       "condition": "used",
       "city": "Vancouver",
@@ -810,7 +825,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/d97db1fc53b2.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-q8/2023-audi-rs-q8-id39042751",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-q8/2023-audi-rs-q8-id39042751?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:46:58",
+      "last_verified": "2026-10-20T20:15:39",
       "odometer_km": 82360,
       "condition": "used",
       "city": "Vancouver",
@@ -823,7 +838,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/280e283f4142.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-q8/2023-audi-rs-q8-id39102218",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-q8/2023-audi-rs-q8-id39102218?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:47:13",
+      "last_verified": "2026-10-20T20:15:55",
       "odometer_km": 62150,
       "condition": "used",
       "city": "Vancouver",
@@ -836,7 +851,7 @@
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8c3fd584740c.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-q8/2026-audi-rs-q8-id39207348",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/audi/rs-q8/2026-audi-rs-q8-id39207348?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:47:29",
+      "last_verified": "2026-10-20T20:16:09",
       "odometer_km": 38824,
       "condition": "used",
       "city": "Vancouver",
@@ -1020,6 +1035,21 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/bmw/640i/2019-bmw-640i-id38643123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T19:51:01",
       "odometer_km": 89000,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "650i Cabriolet2012 BMW",
+      "vin": "WBALZ3C55CDL71919",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/65969550de0b.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/bmw/650i/2012-bmw-650i-id39387627",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/bmw/650i/2012-bmw-650i-id39387627?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:01:31",
+      "price": 19999.0,
+      "price_currency": "CAD",
+      "odometer_km": 118621,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1230,19 +1260,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/bmw/x1/2019-bmw-x1-id38900530?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T19:54:51",
       "odometer_km": 117000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "X1 xDrive28i2023 BMW",
-      "vin": "WBX73EF03P5X75337",
-      "stock": "H32E001",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/344c0fef656f.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/bmw/x1/2023-bmw-x1-id38727050",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/bmw/x1/2023-bmw-x1-id38727050?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T19:55:05",
-      "odometer_km": 28826,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1707,19 +1724,6 @@
       "province": "BC"
     },
     {
-      "name": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive ZR22025 Chevrolet",
-      "vin": "3GCUKHE85SG192605",
-      "stock": "A12A015",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/53984740d8ac.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38691520",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38691520?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:04:33",
-      "odometer_km": 55240,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Silverado 1500 Crew Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
       "vin": "1GCPKDEK2SZ212603",
       "stock": "H32A035",
@@ -1746,19 +1750,6 @@
       "province": "BC"
     },
     {
-      "name": "Silverado 1500 Crew Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
-      "vin": "1GCPKDEK8SZ214033",
-      "stock": "A12A015",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/46863a5b899c.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860902",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860902?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:05:20",
-      "odometer_km": 18533,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Silverado 1500 Double Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
       "vin": "1GCPKDEK5SZ212840",
       "stock": "A12A015",
@@ -1780,6 +1771,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/chevrolet/sonic/2016-chevrolet-sonic-id38916057?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T20:05:52",
       "odometer_km": 120356,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Tahoe 4x4 Premier2023 Chevrolet",
+      "vin": "1GNSKSKD9PR528339",
+      "stock": "A215011",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/2f517f9bbc4d.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/chevrolet/tahoe/2023-chevrolet-tahoe-id39387391",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/chevrolet/tahoe/2023-chevrolet-tahoe-id39387391?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:01:45",
+      "odometer_km": 94712,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2099,6 +2103,19 @@
       "province": "BC"
     },
     {
+      "name": "Explorer Sport2016 Ford",
+      "vin": "1FM5K8GT2GGA73236",
+      "stock": "H213005",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/637e1b607334.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/ford/explorer/2016-ford-explorer-id39387341",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/ford/explorer/2016-ford-explorer-id39387341?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:02:02",
+      "odometer_km": 179975,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Explorer Platinum2023 Ford",
       "vin": "1FM5K8HC7PGA30297",
       "stock": "26B8898",
@@ -2268,6 +2285,19 @@
       "province": "BC"
     },
     {
+      "name": "F150 4x4 - Regular Cab XL - 122 WB2022 Ford",
+      "vin": "1FTFW1E84NFB31367",
+      "stock": "H316037",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/0ec64daaa97c.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/ford/f150/2022-ford-f150-id39375146",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/ford/f150/2022-ford-f150-id39375146?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:02:16",
+      "odometer_km": 83326,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "F150 4x4 - Supercrew XLT - 145 WB2023 Ford",
       "vin": "1FTFW1ED9PFA77175",
       "stock": "N115478",
@@ -2335,6 +2365,36 @@
       "province": "BC"
     },
     {
+      "name": "Focus SE 4D Sedan2009 Ford",
+      "vin": "1FAHP35NX9W251533",
+      "stock": "N212035",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3b0a6dbef306.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/ford/focus/2009-ford-focus-id39386857",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/ford/focus/2009-ford-focus-id39386857?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:02:30",
+      "price": 4499.0,
+      "price_currency": "CAD",
+      "odometer_km": 105278,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Mustang Coupe GT2015 Ford",
+      "vin": "1FA6P8CFXF5300201",
+      "stock": "H32F000",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/190bc839af9a.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/ford/mustang/2015-ford-mustang-id39387429",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/ford/mustang/2015-ford-mustang-id39387429?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:02:46",
+      "price": 34650.0,
+      "price_currency": "CAD",
+      "odometer_km": 35660,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Mustang Coupe Mach 12022 Ford",
       "vin": "1FA6P8R00N5552900",
       "stock": "MB32F00",
@@ -2343,19 +2403,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/ford/mustang/2022-ford-mustang-id39042791?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T20:16:37",
       "odometer_km": 33725,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Mustang Convertible GT Premium2023 Ford",
-      "vin": "1FATP8FF8P5109120",
-      "stock": "H22C002",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3852d0fd0d9e.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/ford/mustang/2023-ford-mustang-id38770922",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/ford/mustang/2023-ford-mustang-id38770922?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:16:53",
-      "odometer_km": 36000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2595,19 +2642,6 @@
       "province": "BC"
     },
     {
-      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali2024 GMC",
-      "vin": "3GTUUGEL2RG268526",
-      "stock": "H32E001",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/96fce88f1900.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id38770962",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id38770962?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:22:26",
-      "odometer_km": 65640,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
       "vin": "3GTUUEE81RG331664",
       "stock": "MB62C00",
@@ -2629,6 +2663,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39309147?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T20:23:01",
       "odometer_km": 33504,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali2024 GMC",
+      "vin": "3GTUUGEL2RG268526",
+      "stock": "H216008",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/38da1b33cc93.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39387343",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39387343?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:03:00",
+      "odometer_km": 65640,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2794,6 +2841,19 @@
       "province": "BC"
     },
     {
+      "name": "Civic Sedan LX CVT2017 Honda",
+      "vin": "2HGFC2F54HH014864",
+      "stock": "H313039",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/d9694d525799.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/civic/2017-honda-civic-id39274760",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/civic/2017-honda-civic-id39274760?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:03:15",
+      "odometer_km": 157800,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Civic Sedan Touring CVT2019 Honda",
       "vin": "2HGFC1F9XKH106002",
       "stock": "H313039",
@@ -2828,6 +2888,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/civic/2020-honda-civic-id39354128?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T20:27:21",
       "odometer_km": 75942,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Type R 6MT2020 Honda",
+      "vin": "SHHFK8G34LU300129",
+      "stock": "A215011",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b0c5772dda44.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/civic/2020-honda-civic-id39387389",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/civic/2020-honda-civic-id39387389?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:03:30",
+      "odometer_km": 12694,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2919,19 +2992,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/civic/2024-honda-civic-id39325297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T20:29:25",
       "odometer_km": 8249,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Civic Type R2025 Honda",
-      "vin": "JHMFL5G45SX800034",
-      "stock": "H32F000",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/7248c92e3509.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/civic/2025-honda-civic-id38853606",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/civic/2025-honda-civic-id38853606?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:29:42",
-      "odometer_km": 16325,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3130,21 +3190,6 @@
       "province": "BC"
     },
     {
-      "name": "CR-V EX 4AT2003 Honda",
-      "vin": "JHLRD78853C800975",
-      "stock": "H126200",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/76b85aed8ba2.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/cr-v/2003-honda-cr-v-id39374892",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/cr-v/2003-honda-cr-v-id39374892?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T00:56:33",
-      "price": 8750.0,
-      "price_currency": "CAD",
-      "odometer_km": 214000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CR-V EX-L AWD2014 Honda",
       "vin": "2HKRM4H7XEH131130",
       "stock": "H27084A",
@@ -3182,6 +3227,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39132072?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T20:35:01",
       "odometer_km": 77321,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V LX AWD CVT2019 Honda",
+      "vin": "2HKRW2H29KH121476",
+      "stock": "27H021A",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3c552375c7a9.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39387425",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39387425?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:03:43",
+      "odometer_km": 105701,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3263,19 +3321,6 @@
       "price": 10995.0,
       "price_currency": "CAD",
       "odometer_km": 97300,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "HR-V EX 4WD CVT2016 Honda",
-      "vin": "3CZRU6H51GM105839",
-      "stock": "26B4490",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/5733db9da610.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/hr-v/2016-honda-hr-v-id39290094",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/hr-v/2016-honda-hr-v-id39290094?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:36:38",
-      "odometer_km": 138589,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3515,19 +3560,6 @@
       "province": "BC"
     },
     {
-      "name": "Passport Touring2022 Honda",
-      "vin": "5FNYF8H99NB501447",
-      "stock": "H32A035",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8905b0092469.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/passport/2022-honda-passport-id38981818",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/passport/2022-honda-passport-id38981818?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:41:54",
-      "odometer_km": 75858,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Passport Touring2023 Honda",
       "vin": "5FNYF8H93PB502306",
       "stock": "H117986",
@@ -3722,29 +3754,14 @@
       "province": "BC"
     },
     {
-      "name": "Ridgeline Black Edition AWD2025 Honda",
-      "vin": "5FPYK3F81SB502426",
-      "stock": "H117987",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6c56ae837b33.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39199911",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39199911?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:45:48",
-      "odometer_km": 48655,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Accent 4Dr GL AT2012 Hyundai",
-      "vin": "KMHCT5AE9CU054708",
-      "stock": "S260504",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/9b02874fe6ba.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/hyundai/accent/2012-hyundai-accent-id39136134",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/hyundai/accent/2012-hyundai-accent-id39136134?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:46:19",
-      "price": 3700.0,
-      "price_currency": "CAD",
-      "odometer_km": 209668,
+      "name": "Elantra GT N Line Ultimate DCT2019 Hyundai",
+      "vin": "KMHH55LC6KU089331",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/c0d607cd7168.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/hyundai/elantra-gt/2019-hyundai-elantra-gt-id39387513",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/hyundai/elantra-gt/2019-hyundai-elantra-gt-id39387513?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:03:57",
+      "odometer_km": 81477,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3947,19 +3964,6 @@
       "province": "BC"
     },
     {
-      "name": "Tucson Hybrid Ultimate AWD2025 Hyundai",
-      "vin": "KM8JCDD14SU295875",
-      "stock": "L26017A",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/c7c832ece040.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/hyundai/tucson-hybrid/2025-hyundai-tucson-hybrid-id39354433",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/hyundai/tucson-hybrid/2025-hyundai-tucson-hybrid-id39354433?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:50:41",
-      "odometer_km": 38683,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Tucson N Line AWD2023 Hyundai",
       "vin": "KM8JCCAE8PU239589",
       "stock": "A22E001",
@@ -4022,6 +4026,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/infiniti/q50/2018-infiniti-q50-id39314797?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T20:51:56",
       "odometer_km": 61970,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Q50 PURE2020 Infiniti",
+      "vin": "JN1EV7AR3LM254461",
+      "stock": "H261266",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/60b481b0bd97.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/infiniti/q50/2020-infiniti-q50-id39387344",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/infiniti/q50/2020-infiniti-q50-id39387344?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:04:12",
+      "odometer_km": 88479,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4244,18 +4261,6 @@
       "province": "BC"
     },
     {
-      "name": "F-Type Coupe P575 R75 AWD2024 Jaguar",
-      "vin": "SAJD51FE3RCK88931",
-      "stock": "J24100",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/01e8170454d4.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/jaguar/f-type/2024-jaguar-f-type-id37786614",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/jaguar/f-type/2024-jaguar-f-type-id37786614?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T20:57:06",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "F-Type Coupe P450 75 AWD2024 Jaguar",
       "vin": "SAJDV1EE9RCK84514",
       "stock": "JL12B08",
@@ -4466,6 +4471,19 @@
       "province": "BC"
     },
     {
+      "name": "Forte (4) LX - at2016 Kia",
+      "vin": "KNAFX4A69G5513600",
+      "stock": "H116988",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/1db6befb21c2.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/kia/forte/2016-kia-forte-id39387279",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/kia/forte/2016-kia-forte-id39387279?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:04:28",
+      "odometer_km": 104600,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Forte Sedan EX IVT2021 Kia",
       "vin": "3KPF54AD8ME332351",
       "stock": "H217003",
@@ -4598,21 +4616,6 @@
       "province": "BC"
     },
     {
-      "name": "Soul 2.0L EX at2015 Kia",
-      "vin": "KNDJP3A52F7218341",
-      "stock": "S261128",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3471fa9a6cb3.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/kia/soul/2015-kia-soul-id39246636",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/kia/soul/2015-kia-soul-id39246636?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:04:28",
-      "price": 4900.0,
-      "price_currency": "CAD",
-      "odometer_km": 176695,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Telluride SX AWD2020 Kia",
       "vin": "5XYP5DHC8LG045742",
       "stock": "26149A",
@@ -4738,19 +4741,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38412869?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T21:07:26",
       "odometer_km": 13782,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Defender 90 P525 V82024 Land Rover",
-      "vin": "SALEB6EE0R2263185",
-      "stock": "26185C",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/ef6a7d950d60.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38470901",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38470901?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:07:42",
-      "odometer_km": 13475,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5078,19 +5068,6 @@
       "price": 18999.0,
       "price_currency": "CAD",
       "odometer_km": 71885,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Range Rover Sport SVR V8 Supercharged2016 Land Rover",
-      "vin": "SALWZ2EF5GA544547",
-      "stock": "DL19665",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/d2f145cd74a3.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/range-rover-sport/2016-land-rover-range-rover-sport-id38915999",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/range-rover-sport/2016-land-rover-range-rover-sport-id38915999?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:14:10",
-      "odometer_km": 105823,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5550,6 +5527,21 @@
       "province": "BC"
     },
     {
+      "name": "Range Rover V8 Autobiography (2)2014 Land Rover",
+      "vin": "SALGV2TF7EA172967",
+      "stock": "L27046A",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/eb6402cce078.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/range-rover/2014-land-rover-range-rover-id39387628",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/range-rover/2014-land-rover-range-rover-id39387628?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:04:43",
+      "price": 25999.0,
+      "price_currency": "CAD",
+      "odometer_km": 144800,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Range Rover V8 Autobiography Supercharged LWB2017 Land Rover",
       "vin": "SALGV5FE7HA372448",
       "stock": "L26277A",
@@ -5584,6 +5576,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/range-rover/2019-land-rover-range-rover-id39281906?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T21:24:05",
       "odometer_km": 70362,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Range Rover 3.0L Td6 Diesel HSE SWB2020 Land Rover",
+      "vin": "SALGS2RK6LA597025",
+      "stock": "JL26B00",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/f15a7aa3c4c7.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/range-rover/2020-land-rover-range-rover-id38164759",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/land-rover/range-rover/2020-land-rover-range-rover-id38164759?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:04:58",
+      "odometer_km": 122583,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5771,19 +5776,6 @@
       "province": "BC"
     },
     {
-      "name": "NX 350h2025 Lexus",
-      "vin": "2T2GKCEZ6SC052206",
-      "stock": "N12F000",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/bd2e469a5641.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/lexus/nx/2025-lexus-nx-id38642515",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/lexus/nx/2025-lexus-nx-id38642515?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:27:53",
-      "odometer_km": 9886,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "NX 250 AWD2025 Lexus",
       "vin": "2T2ADCEZ9SC006563",
       "stock": "A22F003",
@@ -5792,18 +5784,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/lexus/nx/2025-lexus-nx-id39177933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T21:28:08",
       "odometer_km": 26670,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "NX 350h Premium AWD2026 Lexus",
-      "vin": "2T2GKCEZ0TC067799",
-      "stock": "A215009",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/bd8248fc32a2.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/lexus/nx/2026-lexus-nx-id38746823",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/lexus/nx/2026-lexus-nx-id38746823?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:28:23",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6095,6 +6075,21 @@
       "province": "BC"
     },
     {
+      "name": "CX-9 GT AWD2011 Mazda",
+      "vin": "JM3TB3DA1B0316853",
+      "stock": "2652274",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/00dd3fbbe7e2.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mazda/cx-9/2011-mazda-cx-9-id39383779",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mazda/cx-9/2011-mazda-cx-9-id39383779?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:05:14",
+      "price": 13995.0,
+      "price_currency": "CAD",
+      "odometer_km": 145000,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "CX-90 MHEV GT AWD2024 Mazda",
       "vin": "JM3KKDHD2R1103999",
       "stock": "MB71302",
@@ -6172,6 +6167,19 @@
       "price": 3900.0,
       "price_currency": "CAD",
       "odometer_km": 230822,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "3 GS at2017 Mazda",
+      "vin": "JM1BN1V70H1117721",
+      "stock": "N214035",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/4e8e9869d72a.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mazda/mazda3/2017-mazda-mazda3-id39386853",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mazda/mazda3/2017-mazda-mazda3-id39386853?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:05:30",
+      "odometer_km": 70397,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6315,19 +6323,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/c300/2016-mercedes-benz-c300-id39246575?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T21:38:48",
       "odometer_km": 111150,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "C300 4MATIC Sedan2016 Mercedes-Benz",
-      "vin": "55SWF4KBXGU167247",
-      "stock": "2652159",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/f0b89e4419b7.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/c300/2016-mercedes-benz-c300-id39281935",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/c300/2016-mercedes-benz-c300-id39281935?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:39:03",
-      "odometer_km": 85100,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7055,6 +7050,19 @@
     },
     {
       "name": "G550 SUV2021 Mercedes-Benz",
+      "vin": "W1NYC6BJ8MX423109",
+      "stock": "MB72F00",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/fa000b5dd2ba.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/g550/2021-mercedes-benz-g550-id39274822",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/g550/2021-mercedes-benz-g550-id39274822?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:05:43",
+      "odometer_km": 19840,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "G550 SUV2021 Mercedes-Benz",
       "vin": "W1NYC6BJ5MX366867",
       "stock": "2652599",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/790d4f63f40e.html",
@@ -7160,14 +7168,14 @@
       "province": "BC"
     },
     {
-      "name": "G63 AMG SUV2024 Mercedes-Benz",
-      "vin": "W1NYC7HJ2RX498652",
-      "stock": "2764725",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8ef324ead150.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:56:09",
-      "odometer_km": 20284,
+      "name": "G63 AMG SUV2022 Mercedes-Benz",
+      "vin": "W1NYC7HJ7NX443107",
+      "stock": "MB72A00",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/bceaeef3a68d.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/g63-amg/2022-mercedes-benz-g63-amg-id38893633",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/g63-amg/2022-mercedes-benz-g63-amg-id38893633?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:06:00",
+      "odometer_km": 46150,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7237,6 +7245,19 @@
       "price": 31588.0,
       "price_currency": "CAD",
       "odometer_km": 65624,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLA250 4MATIC SUV2018 Mercedes-Benz",
+      "vin": "WDCTG4GB9JJ428095",
+      "stock": "2652118",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/288087fb7de5.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/gla250/2018-mercedes-benz-gla250-id39387629",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/gla250/2018-mercedes-benz-gla250-id39387629?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:06:16",
+      "odometer_km": 35488,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7315,19 +7336,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id38765469?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T21:58:53",
       "odometer_km": 34785,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLA250 SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB4TJ768216",
-      "stock": "MB12A00",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8e645b7308b4.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id38784443",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id38784443?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:59:09",
-      "odometer_km": 19229,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7711,6 +7719,19 @@
     },
     {
       "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB7NV378761",
+      "stock": "2652209",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/49a385e4ed32.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375267",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375267?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:06:32",
+      "odometer_km": 40511,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N0G8EB2NV368123",
       "stock": "MB61716",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/936186b5917b.html",
@@ -7718,6 +7739,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375296?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T00:59:28",
       "odometer_km": 30927,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC Coupe2022 Mercedes-Benz",
+      "vin": "W1N0J8EB2NG024927",
+      "stock": "MB71603",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/0a45675be446.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39387580",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39387580?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:06:48",
+      "odometer_km": 45200,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7900,6 +7934,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39281938?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:10:15",
       "odometer_km": 6267,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB5TF444625",
+      "stock": "MB71703",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/eb386bb187d4.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39387571",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39387571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:07:03",
+      "odometer_km": 11350,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8686,6 +8733,21 @@
       "province": "BC"
     },
     {
+      "name": "ML350 4MATIC2012 Mercedes-Benz",
+      "vin": "4JGDA5HB3CA075724",
+      "stock": "6T7921A",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/c8d64299c825.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/ml350/2012-mercedes-benz-ml350-id39387695",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mercedes-benz/ml350/2012-mercedes-benz-ml350-id39387695?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:07:17",
+      "price": 12995.0,
+      "price_currency": "CAD",
+      "odometer_km": 189767,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "S580 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1K6G7GBXTA345952",
       "stock": "MB11815",
@@ -8886,6 +8948,19 @@
       "name": "Outlander Plug-In Hybrid GT S-AWC2025 Mitsubishi",
       "vin": "JA4T5WA96SZ602585",
       "stock": "I27025A",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b35e7ab0f350.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39380636",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39380636?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:07:33",
+      "odometer_km": 25430,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Outlander Plug-In Hybrid GT S-AWC2025 Mitsubishi",
+      "vin": "JA4T5WA96SZ602585",
+      "stock": "I27025A",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/db42c18c0fcf.html",
       "source_url": "https://www.vancouverhonda.com/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39386520",
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39386520?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8935,6 +9010,21 @@
       "province": "BC"
     },
     {
+      "name": "Altima Sedan 2.5 S CVT2015 Nissan",
+      "vin": "1N4AL3AP7FN374289",
+      "stock": "N216036",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/02fcbbfcfd21.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/altima/2015-nissan-altima-id39387630",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/altima/2015-nissan-altima-id39387630?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:07:49",
+      "price": 9995.0,
+      "price_currency": "CAD",
+      "odometer_km": 85326,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Ariya Premiere e-4orce2023 Nissan",
       "vin": "JN1DF0CD5PM704103",
       "stock": "N212035",
@@ -8963,10 +9053,10 @@
     {
       "name": "ARIYA EVOLVE+ e-4ORCE AWD2024 Nissan",
       "vin": "JN1DF0BB3RM740097",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/44ef4df68e68.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39346652",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39346652?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T13:25:20",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/162d0b448b50.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39354463",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39354463?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:08:05",
       "odometer_km": 27967,
       "condition": "used",
       "city": "Vancouver",
@@ -9051,6 +9141,19 @@
       "province": "BC"
     },
     {
+      "name": "Kicks S2024 Nissan",
+      "vin": "3N1CP5BV2RL568154",
+      "stock": "N226203",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/2f32fbca4e36.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39221253",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39221253?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:08:19",
+      "odometer_km": 43757,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Kicks SV FWD2025 Nissan",
       "vin": "3N8AP6CAXSL301747",
       "stock": "N213036",
@@ -9129,6 +9232,19 @@
       "province": "BC"
     },
     {
+      "name": "Murano2019 Nissan",
+      "vin": "5N1AZ2MS3KN116070",
+      "stock": "N216035",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/5652d7f637c6.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/murano/2019-nissan-murano-id39392031",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/murano/2019-nissan-murano-id39392031?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:08:34",
+      "odometer_km": 121146,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Murano Platinum2023 Nissan",
       "vin": "5N1AZ2DS0PC122721",
       "stock": "N226102",
@@ -9137,6 +9253,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/murano/2023-nissan-murano-id39139532?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:35:10",
       "odometer_km": 56028,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Murano S2023 Nissan",
+      "vin": "5N1AZ2AS6PC140239",
+      "stock": "N213036",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/5a4ce57451b5.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/murano/2023-nissan-murano-id39392338",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/murano/2023-nissan-murano-id39392338?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:08:49",
+      "odometer_km": 49019,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9162,6 +9291,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/murano/2025-nissan-murano-id39309144?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:35:38",
       "odometer_km": 12541,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Pathfinder Platinum V6 4x4 at2016 Nissan",
+      "vin": "5N1AR2MM3GC637830",
+      "stock": "N213036",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/2ff59ba6249e.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/pathfinder/2016-nissan-pathfinder-id39387634",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/pathfinder/2016-nissan-pathfinder-id39387634?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:09:05",
+      "odometer_km": 93975,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9506,6 +9648,32 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/rogue/2025-nissan-rogue-id39360576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:42:27",
       "odometer_km": 24477,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Sentra 1.8 SV CVT2019 Nissan",
+      "vin": "3N1AB7AP8KY283360",
+      "stock": "N212034",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/e87690f3dca6.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39386854",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39386854?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:09:21",
+      "odometer_km": 122944,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Sentra2019 Nissan",
+      "vin": "3N1AB7AP8KY263125",
+      "stock": "N216035",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8a55a34f6596.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39392032",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39392032?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:09:38",
+      "odometer_km": 73610,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9968,19 +10136,6 @@
       "province": "BC"
     },
     {
-      "name": "RAM 1500 Crew Cab 4x2 (DT) Sport LWB2021 Ram",
-      "vin": "1C6SRFVT2MN665129",
-      "stock": "A260122",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/20ceb769ba06.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/ram/ram-1500-crew-cab-4x2-(dt)/2021-ram-ram-1500-crew-cab-4x2-(dt)-id39222574",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/ram/ram-1500-crew-cab-4x2-(dt)/2021-ram-ram-1500-crew-cab-4x2-(dt)-id39222574?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:51:41",
-      "odometer_km": 130537,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "RAM 1500 Crew Cab 4x4 (DT) Rebel SWB2022 Ram",
       "vin": "1C6SRFLT5NN472994",
       "stock": "LR26143",
@@ -10095,19 +10250,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/ascent/2024-subaru-ascent-id39207356?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:54:07",
       "odometer_km": 48298,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Touring Pkg CVT2017 Subaru",
-      "vin": "JF2GPABC4HH261458",
-      "stock": "H126193",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/e99af4ae8166.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:54:39",
-      "odometer_km": 163800,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10368,6 +10510,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39383784?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T02:46:08",
       "odometer_km": 33619,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Crosstrek Limited CVT2024 Subaru",
+      "vin": "JF2GUHNC1RH265188",
+      "stock": "N216036",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6074ed254746.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39387631",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39387631?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:09:55",
+      "odometer_km": 62357,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10648,19 +10803,6 @@
       "province": "BC"
     },
     {
-      "name": "Forester 2.5i Touring CVT2018 Subaru",
-      "vin": "JF2SJEJC9JH519712",
-      "stock": "S113023",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/7c5014c5c16b.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2018-subaru-forester-id39346647",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2018-subaru-forester-id39346647?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:06:00",
-      "odometer_km": 9653,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Forester Convenience CVT2020 Subaru",
       "vin": "JF2SKEFC4LH402029",
       "stock": "26H901B",
@@ -10791,45 +10933,6 @@
       "province": "BC"
     },
     {
-      "name": "Forester Convenience 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDAC1TH460713",
-      "stock": "S115011",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/5a69801e51d9.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id38893681",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id38893681?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:08:34",
-      "odometer_km": 17271,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC5TH459706",
-      "stock": "S115011",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/0fda5b2c1ca9.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id38893684",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id38893684?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:08:50",
-      "odometer_km": 17505,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC5TH459673",
-      "stock": "S115012",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b320ac727eed.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39026479",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39026479?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:09:06",
-      "odometer_km": 19061,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC1TH460612",
       "stock": "S115012",
@@ -10895,32 +10998,6 @@
       "province": "BC"
     },
     {
-      "name": "Forester Convenience 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDACXTH458829",
-      "stock": "S115014",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/fa41baec02f5.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39158110",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39158110?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:10:41",
-      "odometer_km": 15386,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC9TH459627",
-      "stock": "S115014",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/73ee197bcc2c.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39158113",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39158113?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:10:56",
-      "odometer_km": 18510,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC8TH458310",
       "stock": "S115015",
@@ -10929,19 +11006,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39164062?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:11:12",
       "odometer_km": 14863,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Convenience 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDAC1TH460405",
-      "stock": "S115014",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6bcc21493443.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39164066",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39164066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:11:26",
-      "odometer_km": 18091,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11013,19 +11077,6 @@
     },
     {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC9TH462219",
-      "stock": "S115016",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/33d945ebcd84.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39192208",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39192208?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:13:00",
-      "odometer_km": 14860,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC9TH462446",
       "stock": "S115016",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/efa16c48d399.html",
@@ -11033,19 +11084,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39199329?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:13:16",
       "odometer_km": 10657,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC3TH462216",
-      "stock": "S115016",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/616cc1c2c921.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39217320",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/subaru/forester/2026-subaru-forester-id39217320?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:13:33",
-      "odometer_km": 15898,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11625,6 +11663,32 @@
       "province": "BC"
     },
     {
+      "name": "Model Y Performance2022 Tesla",
+      "vin": "7SAYGDEF7NF544221",
+      "stock": "MB71303",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/d8878a82431e.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39387576",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39387576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:10:28",
+      "odometer_km": 73200,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Model Y Long Range2024 Tesla",
+      "vin": "7SAYGDEEXRF989677",
+      "stock": "N226104",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/978de706abcf.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/tesla/model-y/2024-tesla-model-y-id39386858",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/tesla/model-y/2024-tesla-model-y-id39386858?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:10:42",
+      "odometer_km": 46547,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "4Runner SR5 V6 5A2016 Toyota",
       "vin": "JTEBU5JR7G5371673",
       "stock": "A260166",
@@ -11633,6 +11697,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/4runner/2016-toyota-4runner-id39351493?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:25:15",
       "odometer_km": 116614,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "4Runner SR5 V6 5A2018 Toyota",
+      "vin": "JTEBU5JR3J5586488",
+      "stock": "N226204",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/41134df38e9f.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/4runner/2018-toyota-4runner-id39386855",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/4runner/2018-toyota-4runner-id39386855?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:10:57",
+      "odometer_km": 124805,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11798,11 +11875,11 @@
     {
       "name": "Corolla LE CVT2022 Toyota",
       "vin": "5YFBPMBE2NP277640",
-      "stock": "6B4149A",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/900cfab42577.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39340976",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39340976?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:28:29",
+      "stock": "6B4149B",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/06d873a46c15.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39387696",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39387696?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:11:12",
       "odometer_km": 48285,
       "condition": "used",
       "city": "Vancouver",
@@ -11955,6 +12032,21 @@
       "province": "BC"
     },
     {
+      "name": "RAV4 AWD XLE2014 Toyota",
+      "vin": "2T3RFREV3EW127388",
+      "stock": "L26696B",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/38ec8de37ce8.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/rav4/2014-toyota-rav4-id39387625",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/rav4/2014-toyota-rav4-id39387625?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:11:26",
+      "price": 14999.0,
+      "price_currency": "CAD",
+      "odometer_km": 211000,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "RAV4 FWD LE2019 Toyota",
       "vin": "2T3Z1RFV7KW017310",
       "stock": "A12C018",
@@ -11963,6 +12055,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/rav4/2019-toyota-rav4-id39314785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:31:33",
       "odometer_km": 79893,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RAV4 XLE AWD2021 Toyota",
+      "vin": "2T3R1RFVXMW140747",
+      "stock": "H313040",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/a0667ed75c9f.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/rav4/2021-toyota-rav4-id39387426",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/rav4/2021-toyota-rav4-id39387426?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:11:42",
+      "odometer_km": 119600,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12040,19 +12145,6 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39200024?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:33:02",
       "odometer_km": 25883,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sienna Hybrid2025 Toyota",
-      "vin": "5TDGSKFC3SS203387",
-      "stock": "2665793",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/0b23deed19b7.html",
-      "source_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39281858",
-      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39281858?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T01:03:46",
-      "odometer_km": 11267,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12253,6 +12345,19 @@
       "province": "BC"
     },
     {
+      "name": "GOLF Trendline2017 Volkswagen",
+      "vin": "3VW217AU7HM056054",
+      "stock": "S261056",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/af2b827fad63.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/volkswagen/golf/2017-volkswagen-golf-id39061198",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/volkswagen/golf/2017-volkswagen-golf-id39061198?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:11:58",
+      "odometer_km": 140672,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Golf 5-Dr 1.4T Comfortline  8sp at2021 Volkswagen",
       "vin": "3VWG57AU8MM003884",
       "stock": "S113021",
@@ -12261,6 +12366,19 @@
       "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/volkswagen/golf/2021-volkswagen-golf-id38967665?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:37:15",
       "odometer_km": 122948,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Jetta GLI 2.0T 7Sp at DSG w/Tip2022 Volkswagen",
+      "vin": "3VW2T7BU5NM029701",
+      "stock": "A113014",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/1742182f5cff.html",
+      "source_url": "https://www.vancouverhonda.com/en/used-inventory/volkswagen/jetta-gli/2022-volkswagen-jetta-gli-id39387512",
+      "dealer_url": "https://www.vancouverhonda.com/en/used-inventory/volkswagen/jetta-gli/2022-volkswagen-jetta-gli-id39387512?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:12:12",
+      "odometer_km": 58481,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
