@@ -1,7 +1,7 @@
 {
   "dealership": "Vancouver Honda",
-  "generated_at": "2026-10-26T02:12:53",
-  "vehicle_count": 1378,
+  "generated_at": "2026-10-26T10:46:46",
+  "vehicle_count": 1380,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -549,6 +549,12 @@
       "name": "i4 M50 xDrive2024 BMW",
       "vin": "WBY33AW05RFR68265",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b949edff3ddf.html",
+      "condition": "used"
+    },
+    {
+      "name": "i4 xDrive40 Gran Coupe2025 BMW",
+      "vin": "WBY43HD09SFT91911",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/dccd5a5ee68e.html",
       "condition": "used"
     },
     {
@@ -3138,6 +3144,12 @@
       "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N9M0KB6SN131152",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/53068811c6bf.html",
+      "condition": "used"
+    },
+    {
+      "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0KB1SN129132",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b867c31e42e1.html",
       "condition": "used"
     },
     {
