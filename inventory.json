@@ -1,6 +1,6 @@
 {
   "dealership": "Vancouver Honda",
-  "generated_at": "2026-11-18T05:03:42",
+  "generated_at": "2026-11-18T13:18:35",
   "vehicle_count": 1530,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/d3d06f1da3da.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/0a664a880603.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6b351f8c6a29.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/9155f30000fa.html",
       "condition": "used"
     },
     {
@@ -3314,12 +3326,6 @@
     },
     {
       "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "W1N9M0KB1SN129132",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b867c31e42e1.html",
-      "condition": "used"
-    },
-    {
-      "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N9M0KB3SN129181",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/a7110e744760.html",
       "condition": "used"
@@ -5118,12 +5124,6 @@
       "name": "Crosstrek Limited CVT2024 Subaru",
       "vin": "JF2GUHNC1RH265188",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6074ed254746.html",
-      "condition": "used"
-    },
-    {
-      "name": "Crosstrek Convenience CVT2024 Subaru",
-      "vin": "JF2GUABC5R8910890",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6f5853174bec.html",
       "condition": "used"
     },
     {
