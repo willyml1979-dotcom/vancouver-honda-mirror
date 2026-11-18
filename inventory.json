@@ -1,7 +1,7 @@
 {
   "dealership": "Vancouver Honda",
-  "generated_at": "2026-11-17T16:43:45",
-  "vehicle_count": 1454,
+  "generated_at": "2026-11-17T18:14:15",
+  "vehicle_count": 1461,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6757,6 +6757,24 @@
       "condition": "new"
     },
     {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F99VH000740",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/318444649e41.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F98VH000812",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/124f35fb789d.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F89VH001183",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8f9ef30627d9.html",
+      "condition": "new"
+    },
+    {
       "name": "Civic Si Si2026 Honda",
       "vin": "2HGFE1E51TH080920",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/27db6635d4bf.html",
@@ -7005,10 +7023,12 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
-      "vin": "2HKRS6H52TH244440",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HGFE4F98VH000812",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/942ed02de53f.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 42375.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
@@ -7023,16 +7043,20 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
-      "vin": "2HKRS6H57TH215029",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "3CZRZ1H31VM101841",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/ed54d39c480d.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 35645.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
-      "vin": "2HKRS6H53TH248335",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HGFE4F98VH000812",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b8c49f9ab3fc.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 42375.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
@@ -7053,10 +7077,12 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
-      "vin": "2HKRS6H50TH248342",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "3CZRZ1H31VM101841",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c6460c3512d1.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 35645.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
@@ -7071,10 +7097,12 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid TOURING HYBRID2026 Honda",
-      "vin": "2HKRS6H94TH247360",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "3CZRZ1H31VM101841",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/fe9168ed5ae1.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 35645.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
@@ -7113,10 +7141,12 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
-      "vin": "2HKRS6H70TH248651",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HGFE4F98VH000812",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e8a9da2b16b4.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 42375.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
@@ -7137,10 +7167,12 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
-      "vin": "2HKRS6H55TH251429",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HGFE4F98VH000812",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e1443a78a1d1.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 42375.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
@@ -7185,10 +7217,12 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
-      "vin": "2HKRS6H70TH246849",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HGFE4F98VH000812",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d12a65ce13a6.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 42375.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid TOURING HYBRID2026 Honda",
@@ -7843,6 +7877,12 @@
       "condition": "new"
     },
     {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H96VH206358",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/3c75c4e3ace1.html",
+      "condition": "new"
+    },
+    {
       "name": "CR-V SPORT2026 Honda",
       "vin": "2HKRS4H56TH104377",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b8661b4749d3.html",
@@ -8161,6 +8201,12 @@
       "condition": "new"
     },
     {
+      "name": "CR-V LX 2WD2027 Honda",
+      "vin": "2HKRS3H2XVH000199",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/05fd1109df95.html",
+      "condition": "new"
+    },
+    {
       "name": "HR-V SPORT2026 Honda",
       "vin": "3CZRZ2H53TM111520",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/184d11005e87.html",
@@ -8428,6 +8474,18 @@
       "name": "HR-V LX 2WD2027 Honda",
       "vin": "3CZRZ1H31VM101841",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c2be4cee9236.html",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V EX-L2027 Honda",
+      "vin": "3CZRZ2H76VM109121",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6f58a37311e9.html",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V EX-L2027 Honda",
+      "vin": "3CZRZ2H74VM109604",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a602e7da563a.html",
       "condition": "new"
     },
     {
