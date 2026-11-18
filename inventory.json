@@ -1,7 +1,7 @@
 {
   "dealership": "Vancouver Honda",
-  "generated_at": "2026-11-18T04:23:52",
-  "vehicle_count": 1440,
+  "generated_at": "2026-11-18T05:03:42",
+  "vehicle_count": 1530,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6323,6 +6323,18 @@
       "condition": "new"
     },
     {
+      "name": "Accord Hybrid TOURING2026 Honda",
+      "vin": "1HGCY2F86TA802700",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/40bf2dd1bbc0.html",
+      "condition": "new"
+    },
+    {
+      "name": "Accord Hybrid TOURING2026 Honda",
+      "vin": "1HGCY2F80TA802675",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/62ceaa2b450f.html",
+      "condition": "new"
+    },
+    {
       "name": "Civic Hatchback Sport CVT2026 Honda",
       "vin": "19XFL2H81TE400510",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/4543315ed60a.html",
@@ -6539,6 +6551,12 @@
       "condition": "new"
     },
     {
+      "name": "Civic Hybrid SPORT TOURING2026 Honda",
+      "vin": "2HGFE4F81TH018735",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/fa2b98a24f5b.html",
+      "condition": "new"
+    },
+    {
       "name": "Civic Hybrid Sport2027 Honda",
       "vin": "2HGFE4F81VH000240",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/cb78ba383c65.html",
@@ -6582,6 +6600,12 @@
     },
     {
       "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F96VH000047",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f2b00ed2186b.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
       "vin": "2HGFE4F92VH000188",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/9931929c5f2d.html",
       "condition": "new"
@@ -6612,6 +6636,24 @@
     },
     {
       "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F98VH000616",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e447d1dc0029.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F95VH000749",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/0b1ba3ab62d9.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F97VH000736",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/3f40cfc9d8ed.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
       "vin": "2HGFE4F92VH001048",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a5cd4999b271.html",
       "condition": "new"
@@ -6636,14 +6678,146 @@
     },
     {
       "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F9XVH000486",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/1176f0c46304.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F93VH000815",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a158038fde69.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F80VH000388",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8a3c9dee5cf5.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F80VH000505",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f58d2b368d8a.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F86VH000508",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a5fca809b0da.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F83VH001454",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/9f44928ae6e8.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F87VH000498",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/7b1c05575798.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F8XVH000513",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/0fdc53e15b5e.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F98VH000812",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/1cb3e4b4aaef.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
       "vin": "2HGFE4F98VH000812",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/124f35fb789d.html",
       "condition": "new"
     },
     {
       "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F87VH001733",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a437e17632ca.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F86VH001187",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b0653b0a6ae8.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring2027 Honda",
+      "vin": "2HGFE4F99VH001032",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/3ea16a2e5bb6.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F87VH001229",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/0cb07677cd59.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
       "vin": "2HGFE4F89VH001183",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8f9ef30627d9.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F89VH001488",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/836070d00f49.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F81VH001193",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/91ec7372e25d.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F84VH000927",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/3277efcc645b.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F83VH001213",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6198c1be223a.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F8XVH001726",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d53608b2bc49.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F84VH001205",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/1ae655cba38f.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F86VH000928",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f20930e1d2c0.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F89VH000938",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/4e4104cea3fb.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F87VH001991",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/20478dd035fa.html",
       "condition": "new"
     },
     {
@@ -6662,6 +6836,12 @@
       "name": "Civic Si Si2026 Honda",
       "vin": "2HGFE1E50TH081721",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/94717a135684.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Si Si2026 Honda",
+      "vin": "2HGFE1E5XTH081189",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8563ff2e4beb.html",
       "condition": "new"
     },
     {
@@ -6766,8 +6946,44 @@
     },
     {
       "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F2XVH100014",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/4031e82a4809.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic LX2027 Honda",
       "vin": "2HGFE2F27VH100360",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/269d4a64499f.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F26VH100687",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/cf3755ec5b32.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F29VH100375",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/5f1210e44021.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F22VH101643",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/720e5a364f33.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F2XVH100899",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/3d0d6bee3bd0.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F23VH101442",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/173da0750266.html",
       "condition": "new"
     },
     {
@@ -6868,6 +7084,12 @@
       "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
       "vin": "2HKRS6H7XTH240685",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/ed53c5861433.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
+      "vin": "2HKRS6H53TH236315",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/3c87fa8375aa.html",
       "condition": "new"
     },
     {
@@ -7097,16 +7319,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "CR-V Hybrid TOURING HYBRID2026 Honda",
-      "vin": "2HKRS6H94TH248279",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HKRS4H22TH107654",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/8da77a9b59a2.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 44652.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "CR-V Hybrid TOURING HYBRID2026 Honda",
-      "vin": "2HKRS6H96TH251801",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HKRS4H27TH114552",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/16157626bc88.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 44652.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
@@ -7118,6 +7344,12 @@
       "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
       "vin": "2HKRS6H78TH242791",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/286d925e50c3.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
+      "vin": "2HKRS6H74TH249754",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/1c686f580044.html",
       "condition": "new"
     },
     {
@@ -7177,10 +7409,12 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
-      "vin": "2HKRS6H79VH201718",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HKRS6H72VH209062",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a199b7d66a04.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 54045.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
@@ -7189,16 +7423,20 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
-      "vin": "2HKRS6H55VH200032",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HKRS6H72VH209062",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f58da5c14026.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 54045.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
-      "vin": "2HKRS6H73VH200418",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HKRS6H72VH209062",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d740ea9a253e.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 54045.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
@@ -7231,10 +7469,12 @@
       "condition": "new"
     },
     {
-      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
-      "vin": "2HKRS6H53VH201440",
+      "name": "New Vehicle Inventoryat Vancouver Honda",
+      "vin": "2HKRS4H22TH107654",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/21e6789ab8ce.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 44652.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
@@ -7743,6 +7983,30 @@
       "condition": "new"
     },
     {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H75VH206382",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e7029f1aba9d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H93VH206317",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/ae8de3099974.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H9XVH206329",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/049f14e5ed24.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H93VH206320",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/dfcab35a7ce4.html",
+      "condition": "new"
+    },
+    {
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H96VH206358",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/48cc595b3a65.html",
@@ -7752,6 +8016,222 @@
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H96VH206358",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/3c75c4e3ace1.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H58VH205516",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/30cdaed7ba7d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H90VH204332",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/29cea3f39ad2.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H94VH204334",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/5f6619e16032.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H99VH205642",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e18ca31cfeee.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H97VH205641",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/5c044936f5aa.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H97VH205624",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/bf07f9353527.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H7XVH205678",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/eda8427a9de3.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H78VH204819",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/436485ebd2d0.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H75VH205667",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/7c333264da0f.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H7XVH206085",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/910fed89d403.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H71VH206394",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d9bbe37c825f.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H73VH206087",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d51c3f58c044.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H55VH206025",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/02521c014794.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H96VH205971",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6335cec3c92d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H70VH206273",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f820f3d40365.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H94VH206469",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/ada17d95e02e.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H59VH205119",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c554184838d1.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H79VH205848",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/27d8adcf0971.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TRAILSPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H66VH206611",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/556bb12f2137.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H53VH208341",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/557ded1e2a59.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H51VH208340",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/5b2106d3538d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H51VH208354",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b82f534475e8.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H73VH208261",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/37b26ecad76c.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H90VH208719",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/c2dc7c0ffc6d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H55VH208633",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/fd2c6ebc0c8e.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H55VH208664",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/ad31045a65e9.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H52VH208931",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/0920ff91a2e2.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H52VH208931",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f8e989591bea.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H9XVH208937",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/7113692adf8a.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H94VH209307",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/d4cc6fbceae7.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H91VH206476",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/a5808feda68c.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H91VH208938",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/82ad5cba42f2.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H90VH208736",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/716960d5d432.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H72VH209062",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/44add397228c.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H98VH208709",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/29cb829f1d74.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H77VH209056",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/49df19f929af.html",
       "condition": "new"
     },
     {
@@ -8061,6 +8541,12 @@
       "condition": "new"
     },
     {
+      "name": "CR-V LX AWD2026 Honda",
+      "vin": "2HKRS4H23TH117772",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/81edb4b4ab69.html",
+      "condition": "new"
+    },
+    {
       "name": "CR-V LX 2WD2027 Honda",
       "vin": "2HKRS3H26VH000006",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/0d835c5f1926.html",
@@ -8349,9 +8835,51 @@
       "condition": "new"
     },
     {
+      "name": "HR-V LX 2WD2027 Honda",
+      "vin": "3CZRZ1H33VM101971",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/e6dbf32d287b.html",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V LX 2WD2027 Honda",
+      "vin": "3CZRZ1H34VM101817",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/eb9e06c897b9.html",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V EX-L2027 Honda",
+      "vin": "3CZRZ2H75VM106257",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/513f55601262.html",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V LX 4WD2027 Honda",
+      "vin": "3CZRZ2H35VM109303",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/77f1f98d25c3.html",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V EX-L2027 Honda",
+      "vin": "3CZRZ2H75VM109482",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/4b2566de1d6f.html",
+      "condition": "new"
+    },
+    {
       "name": "HR-V EX-L2027 Honda",
       "vin": "3CZRZ2H76VM109121",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/6f58a37311e9.html",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V LX 4WD2027 Honda",
+      "vin": "3CZRZ2H36VM108919",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/ceab379eaa51.html",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V LX 2WD2027 Honda",
+      "vin": "3CZRZ1H31VM102004",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/df75e6bbbee3.html",
       "condition": "new"
     },
     {
@@ -8553,6 +9081,12 @@
       "condition": "new"
     },
     {
+      "name": "Odyssey Touring2027 Honda",
+      "vin": "5FNRL6H85VB501230",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/822f74b975fc.html",
+      "condition": "new"
+    },
+    {
       "name": "Passport TRAILSPORT TOURING2026 Honda",
       "vin": "5FNYF9H84TB506985",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f3fcfee67b5d.html",
@@ -8610,6 +9144,18 @@
       "name": "Passport TRAILSPORT TOURING BLACKOUT2026 Honda",
       "vin": "5FNYF9H82TB508783",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/f6e2b92ddecb.html",
+      "condition": "new"
+    },
+    {
+      "name": "Passport Trailsport Touring2027 Honda",
+      "vin": "5FNYF9H80VB500359",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/b892560b1313.html",
+      "condition": "new"
+    },
+    {
+      "name": "Passport Trailsport Touring2027 Honda",
+      "vin": "5FNYF9H87VB500603",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/324d77c9148e.html",
       "condition": "new"
     },
     {
@@ -8718,6 +9264,12 @@
       "name": "Pilot BLACK EDITION2026 Honda",
       "vin": "5FNYG1H9XTB505136",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/56e77c38387e.html",
+      "condition": "new"
+    },
+    {
+      "name": "Pilot TRAILSPORT2026 Honda",
+      "vin": "5FNYG1H67TB506637",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/new/db5db5124732.html",
       "condition": "new"
     },
     {
