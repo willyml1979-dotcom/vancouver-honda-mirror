@@ -1,7 +1,7 @@
 {
   "dealership": "Vancouver Honda",
-  "generated_at": "2026-11-17T18:14:15",
-  "vehicle_count": 1461,
+  "generated_at": "2026-11-18T04:23:52",
+  "vehicle_count": 1440,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -45,6 +45,12 @@
       "name": "Integra Type S MT2025 Acura",
       "vin": "19UDE5G95SA800201",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/f2917158a03e.html",
+      "condition": "used"
+    },
+    {
+      "name": "Integra Type S MT2025 Acura",
+      "vin": "19UDE5G96SA800160",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/22533322c216.html",
       "condition": "used"
     },
     {
@@ -186,12 +192,6 @@
       "condition": "used"
     },
     {
-      "name": "RDX A-Spec2021 Acura",
-      "vin": "5J8TC2H62ML807747",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/a925258211d2.html",
-      "condition": "used"
-    },
-    {
       "name": "RDX SH-AWD Tech at2021 Acura",
       "vin": "5J8TC2H56ML809881",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/bd468b47ad61.html",
@@ -306,12 +306,6 @@
       "condition": "used"
     },
     {
-      "name": "A6 3.0T Progressiv quattro2019 Audi",
-      "vin": "WAUK2AF29KN056104",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/dd85bcb16d96.html",
-      "condition": "used"
-    },
-    {
       "name": "Q3 2.0T Progressiv quattro 8sp Tiptronic2019 Audi",
       "vin": "WA1EECF35K1066254",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/7fb612aa1c29.html",
@@ -369,12 +363,6 @@
       "name": "Q5 Progressiv 45 TFSI quattro 7sp S Tronic2024 Audi",
       "vin": "WA1EAAFY8R2096770",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/25a61cc1727d.html",
-      "condition": "used"
-    },
-    {
-      "name": "Q6 e-tron Progressiv quattro2025 Audi",
-      "vin": "WA154BGF1SA007658",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/5d01e80cb40d.html",
       "condition": "used"
     },
     {
@@ -465,6 +453,12 @@
       "name": "RS Q8 4.0T quattro 8sp Tiptronic2023 Audi",
       "vin": "WU1ARBF12PD037479",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/280e283f4142.html",
+      "condition": "used"
+    },
+    {
+      "name": "RS Q8 TFSI quattro2024 Audi",
+      "vin": "WU1ARBF15RD013583",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b4fc040a2584.html",
       "condition": "used"
     },
     {
@@ -717,12 +711,6 @@
       "name": "M5 Sedan2025 BMW",
       "vin": "WBS83FK0XSCU12642",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/beadf3f056f1.html",
-      "condition": "used"
-    },
-    {
-      "name": "M8 Competition Coupe2025 BMW",
-      "vin": "WBSAE0C08SCU02442",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/a240f57cf5d4.html",
       "condition": "used"
     },
     {
@@ -1130,12 +1118,6 @@
       "condition": "used"
     },
     {
-      "name": "Edge SE AWD2022 Ford",
-      "vin": "2FMPK4G97NBB00277",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/bcb880739fdc.html",
-      "condition": "used"
-    },
-    {
       "name": "Expedition Platinum Max2022 Ford",
       "vin": "1FMJK1MT5NEA09839",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/95106650779a.html",
@@ -1154,21 +1136,9 @@
       "condition": "used"
     },
     {
-      "name": "Explorer ST 4WD2025 Ford",
-      "vin": "1FMWK8GC9SGC08774",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/d1f4080810f0.html",
-      "condition": "used"
-    },
-    {
       "name": "F-150 HYBRID Supercab Lariat - Powerboost2021 Ford",
       "vin": "1FTFW1ED3MFA93691",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/5ea47ab2b4e7.html",
-      "condition": "used"
-    },
-    {
-      "name": "F-150 4x4 SuperCrew Tremor - 145'' WB2023 Ford",
-      "vin": "1FTEW1E84PFB92751",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6187bb6b7524.html",
       "condition": "used"
     },
     {
@@ -1193,12 +1163,6 @@
       "name": "F-150 LARIAT 4WD SuperCrew 6.5' Box2026 Ford",
       "vin": "1FTFW5L87TKD28385",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/250a9ee543b9.html",
-      "condition": "used"
-    },
-    {
-      "name": "F150 Lightning 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/777ab304ff2c.html",
       "condition": "used"
     },
     {
@@ -1328,12 +1292,6 @@
       "condition": "used"
     },
     {
-      "name": "Acadia AWD Denali2019 GMC",
-      "vin": "1GKKNXLS1KZ117069",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/11d41674f543.html",
-      "condition": "used"
-    },
-    {
       "name": "Acadia AWD AT42023 GMC",
       "vin": "1GKKNLLS9PZ158730",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/126c0a8a84d9.html",
@@ -1376,18 +1334,6 @@
       "condition": "used"
     },
     {
-      "name": "Sierra 1500 Crewcab Denali2026 GMC",
-      "vin": "1GTUUHE89TZ106532",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b7be91987063.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali Ultimate2026 GMC",
-      "vin": "1GTUUHE8XTZ101002",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8b5a89237615.html",
-      "condition": "used"
-    },
-    {
       "name": "Sierra 2500 Classic SLE Crew Cab 4WD2007 GMC",
       "vin": "1GTHK23K97F519187",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/d56ce7c90c00.html",
@@ -1396,7 +1342,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Sierra 3500HD 4WD Crew Cab Medium Box AT42024 GMC",
+      "name": "Sierra 3500HD Crewcab 4WD2024 GMC",
       "vin": "1GT49VEY1RF273378",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/840b14f8a068.html",
       "condition": "used"
@@ -1471,12 +1417,6 @@
       "name": "Accord SE CVT Sedan2025 Honda",
       "vin": "1HGCY1F48SA800081",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/c3f7e152f3b7.html",
-      "condition": "used"
-    },
-    {
-      "name": "Accord SE CVT Sedan2025 Honda",
-      "vin": "1HGCY1F48SA800582",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/e3f7988f2dfc.html",
       "condition": "used"
     },
     {
@@ -1634,6 +1574,14 @@
       "condition": "used"
     },
     {
+      "name": "CR-V EX-L AWD2014 Honda",
+      "vin": "2HKRM4H79EH122130",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/cd8f19e219eb.html",
+      "condition": "used",
+      "price": 17880.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "CR-V LX AWD CVT2019 Honda",
       "vin": "2HKRW2H29KH121476",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3c552375c7a9.html",
@@ -1685,12 +1633,6 @@
       "name": "CR-V Sport AWD2024 Honda",
       "vin": "2HKRS4H51RH100486",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/16f1d0aa9e3b.html",
-      "condition": "used"
-    },
-    {
-      "name": "CR-V Sport AWD2024 Honda",
-      "vin": "2HKRS4H58RH108679",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/1c6f5f008314.html",
       "condition": "used"
     },
     {
@@ -1759,14 +1701,6 @@
       "vin": "3CZRZ2H54TM100977",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/0e7a746bce65.html",
       "condition": "used"
-    },
-    {
-      "name": "Odyssey EX2013 Honda",
-      "vin": "5FNRL5H41DB507290",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/ebfd63ed6ca7.html",
-      "condition": "used",
-      "price": 4750.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Odyssey Touring2014 Honda",
@@ -1893,12 +1827,6 @@
       "condition": "used"
     },
     {
-      "name": "Ridgeline Touring2019 Honda",
-      "vin": "5FPYK3F74KB506171",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/0fa7a8d09a3f.html",
-      "condition": "used"
-    },
-    {
       "name": "Ridgeline Touring2022 Honda",
       "vin": "5FPYK3F70NB500839",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/1fb68d6ab559.html",
@@ -2013,6 +1941,12 @@
       "condition": "used"
     },
     {
+      "name": "Santa Fe 2.5T XRT AWD 7-Pass2024 Hyundai",
+      "vin": "5NMP3DGLXRH020184",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/376b1b9ea913.html",
+      "condition": "used"
+    },
+    {
       "name": "Santa Fe 1.6T Preferred Hybrid AWD 7-Pass2026 Hyundai",
       "vin": "KM8P2DG13TU174586",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6e2d9c6c7994.html",
@@ -2040,12 +1974,6 @@
       "name": "Tucson AWD 2.4L Urban Edition2020 Hyundai",
       "vin": "KM8J3CAL1LU160645",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8d2cdf1e2b02.html",
-      "condition": "used"
-    },
-    {
-      "name": "Tucson N Line AWD2023 Hyundai",
-      "vin": "KM8JCCAE8PU239589",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/70d264583b22.html",
       "condition": "used"
     },
     {
@@ -2136,12 +2064,6 @@
       "name": "F-PACE P575 SVR 575 Edition Auto2025 Jaguar",
       "vin": "SADCZ2FE3SA752374",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b1d8cc84a26d.html",
-      "condition": "used"
-    },
-    {
-      "name": "F-TYPE Coupe SVR AWD2017 Jaguar",
-      "vin": "SAJXJ6J80HMK45521",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8f654456f488.html",
       "condition": "used"
     },
     {
@@ -2295,6 +2217,12 @@
       "condition": "used"
     },
     {
+      "name": "Sportage SX Turbo2018 Kia",
+      "vin": "KNDPRCA64J7380901",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/c02cbe918967.html",
+      "condition": "used"
+    },
+    {
       "name": "Telluride SX AWD2020 Kia",
       "vin": "5XYP5DHC8LG045742",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/c1a16d7717eb.html",
@@ -2307,12 +2235,6 @@
       "condition": "used"
     },
     {
-      "name": "Defender 110 P400 X-Dynamic HSE2021 Land Rover",
-      "vin": "SALE37RU6M2046530",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/357f62fe588f.html",
-      "condition": "used"
-    },
-    {
       "name": "Defender 90 P400 75th Anniversary (2)2023 Land Rover",
       "vin": "SALEW6EU7P2172410",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/76ab7a0f6e6e.html",
@@ -2322,12 +2244,6 @@
       "name": "Defender 130 P400 First Edition (2)2023 Land Rover",
       "vin": "SALEVFEU4P2170889",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/10694d16bd06.html",
-      "condition": "used"
-    },
-    {
-      "name": "Defender 110 P400 SE (2)2023 Land Rover",
-      "vin": "SALEP7EU1P2127336",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/05355f2c7fff.html",
       "condition": "used"
     },
     {
@@ -2475,12 +2391,6 @@
       "condition": "used"
     },
     {
-      "name": "New Range Rover P530 SE SWB - Beautiful truck!2023 Land Rover",
-      "vin": "SALKP9E74PA011644",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/4dbd78090bcd.html",
-      "condition": "used"
-    },
-    {
       "name": "New Range Rover P530 SE SWB2023 Land Rover",
       "vin": "SALKP9E79PA086999",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/34782738a25a.html",
@@ -2552,6 +2462,12 @@
       "name": "Range Rover Sport HSE2018 Land Rover",
       "vin": "SALWR2RK5JA190558",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/9bfe5b206400.html",
+      "condition": "used"
+    },
+    {
+      "name": "Range Rover Sport V8 Supercharged Autobiography Dynamic2018 Land Rover",
+      "vin": "SALWV2RE2JA807131",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/1f0d6184c521.html",
       "condition": "used"
     },
     {
@@ -2705,6 +2621,12 @@
       "condition": "used"
     },
     {
+      "name": "Range Rover Velar P380 HSE R-Dynamic2019 Land Rover",
+      "vin": "SALYM2EV0KA781390",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/84a26688f24b.html",
+      "condition": "used"
+    },
+    {
       "name": "Range Rover Velar P250 S2020 Land Rover",
       "vin": "SALYB2EX8LA295418",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/e182ca1580e7.html",
@@ -2786,6 +2708,12 @@
       "name": "Range Rover 5.0L V8 Supercharged P525 Autobiography LWB (2)2020 Land Rover",
       "vin": "SALGS5SE4LA585140",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/7aff8636a2a4.html",
+      "condition": "used"
+    },
+    {
+      "name": "Range Rover 5.0L V8 Supercharged P525 Autobiography LWB2020 Land Rover",
+      "vin": "SALGV5SE0LA592156",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/adc093130aa4.html",
       "condition": "used"
     },
     {
@@ -3013,12 +2941,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "CX-5 GT AWD at2017 Mazda",
-      "vin": "JM3KFBDL5H0105322",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/c3791c608035.html",
-      "condition": "used"
-    },
-    {
       "name": "CX-50 GT AWD2024 Mazda",
       "vin": "7MMVABDMXRN217020",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/97de4cf15b49.html",
@@ -3197,12 +3119,6 @@
       "condition": "used"
     },
     {
-      "name": "C43 AMG 4MATIC Sedan2023 Mercedes-Benz",
-      "vin": "W1KAF8HB0PR110677",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6d0c6a3681fa.html",
-      "condition": "used"
-    },
-    {
       "name": "C43 AMG 4MATIC Sedan2025 Mercedes-Benz",
       "vin": "W1KAF8HB9SR287009",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/9636eb7a3caf.html",
@@ -3309,6 +3225,14 @@
       "condition": "used"
     },
     {
+      "name": "E300 4MATIC Sedan2014 Mercedes-Benz",
+      "vin": "WDDHF8BB0EB042345",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/74de39b2bb62.html",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "E350 4MATIC Sedan2020 Mercedes-Benz",
       "vin": "WDDZF8EB9LA713790",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3e680afb4653.html",
@@ -3333,12 +3257,6 @@
       "condition": "used",
       "price": 22995.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "E450 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KZF5KB9NB080093",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3aa362b7f34f.html",
-      "condition": "used"
     },
     {
       "name": "E450 4MATIC Sedan2026 Mercedes-Benz",
@@ -3505,12 +3423,6 @@
       "condition": "used"
     },
     {
-      "name": "G63 AMG SUV2020 Mercedes-Benz",
-      "vin": "WDCYC7HJ7LX339473",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/bbbe98e79ccf.html",
-      "condition": "used"
-    },
-    {
       "name": "G63 AMG SUV2021 Mercedes-Benz",
       "vin": "W1NYC7HJ0MX368216",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/48fb7ee98fd8.html",
@@ -3587,12 +3499,6 @@
       "condition": "used"
     },
     {
-      "name": "GLA250 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1N4N4HB2PJ446342",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3baf704b9065.html",
-      "condition": "used"
-    },
-    {
       "name": "GLA250 4MATIC2024 Mercedes-Benz",
       "vin": "W1N4N4HB5RJ602201",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6b2b9cbe1d3c.html",
@@ -3666,12 +3572,6 @@
     },
     {
       "name": "GLB250 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "W1N4M4HB8NW239862",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/056dca3618de.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLB250 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N4M4HBXNW253004",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/390fc4cce3ab.html",
       "condition": "used"
@@ -3686,12 +3586,6 @@
       "name": "GLB250 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1N4M4HB9PW261274",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/b963c53b7800.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLB250 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1N4M4HB8PW313736",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/7d735f75cec7.html",
       "condition": "used"
     },
     {
@@ -3923,6 +3817,12 @@
       "condition": "used"
     },
     {
+      "name": "GLC300 4MATIC Coupe2023 Mercedes-Benz",
+      "vin": "W1N0J8EB1PG129218",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/a5bf28fcdb49.html",
+      "condition": "used"
+    },
+    {
       "name": "GLC300 4MATIC SUV2024 Mercedes-Benz",
       "vin": "W1NKM4HB5RF180735",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/4aa1e933db0f.html",
@@ -4010,12 +3910,6 @@
       "name": "GLC43 AMG 4MATIC SUV2018 Mercedes-Benz",
       "vin": "WDC0G6EB3JF390979",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/fd593334bce8.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLC43 AMG 4MATIC SUV2018 Mercedes-Benz",
-      "vin": "WDC0G6EB4JF438389",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/36797d1c0a82.html",
       "condition": "used"
     },
     {
@@ -4345,26 +4239,10 @@
       "condition": "used"
     },
     {
-      "name": "M-Class 3.0L CDI2008 Mercedes-Benz",
-      "vin": "4JGBB22E18A323515",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/f1a06976d88f.html",
-      "condition": "used",
-      "price": 10999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Metris Passenger Van2021 Mercedes-Benz",
       "vin": "W1WV0FEY6M3924748",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/210cfc612b26.html",
       "condition": "used"
-    },
-    {
-      "name": "ML350 BlueTEC 4MATIC SUV2015 Mercedes-Benz",
-      "vin": "4JGDA2EB5FA531956",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/00a0cd1d7bcd.html",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "S580 4MATIC Sedan2023 Mercedes-Benz",
@@ -4432,6 +4310,12 @@
       "name": "Sprinter 2500 Cargo 144 (2)2021 Mercedes-Benz",
       "vin": "W1Y4DBHY4MP372249",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8f2e233a3b4f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Sprinter 2500 Cargo 144 (2)2021 Mercedes-Benz",
+      "vin": "W1Y4DBHY5MP378738",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/5da9dc7ab516.html",
       "condition": "used"
     },
     {
@@ -4727,12 +4611,6 @@
       "condition": "used"
     },
     {
-      "name": "Pathfinder Rock Creek AWD2023 Nissan",
-      "vin": "5N1DR3BE7PC239163",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/e53a563ef7cf.html",
-      "condition": "used"
-    },
-    {
       "name": "Pathfinder SV V6 4x4 at2023 Nissan",
       "vin": "5N1DR3BE4PC247141",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/d71c60e66224.html",
@@ -4748,12 +4626,6 @@
       "name": "Pathfinder SL 4WD2024 Nissan",
       "vin": "5N1DR3CE1RC248975",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/61a0d30663e6.html",
-      "condition": "used"
-    },
-    {
-      "name": "Qashqai SL AWD CVT2023 Nissan",
-      "vin": "JN1BJ1BW0PW102616",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/eb60a430706c.html",
       "condition": "used"
     },
     {
@@ -4856,12 +4728,6 @@
       "name": "Rogue AWD SV Moonroof2025 Nissan",
       "vin": "JN8BT3BBXSW176302",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3762382db863.html",
-      "condition": "used"
-    },
-    {
-      "name": "Rogue AWD S2025 Nissan",
-      "vin": "JN8BT3AB5SW156251",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/f1af5c005c35.html",
       "condition": "used"
     },
     {
@@ -5007,12 +4873,6 @@
       "condition": "used"
     },
     {
-      "name": "Cayenne2021 Porsche",
-      "vin": "WP1AA2AY0MDA01017",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/101d0b051928.html",
-      "condition": "used"
-    },
-    {
       "name": "Cayenne GTS2023 Porsche",
       "vin": "WP1AG2AY1PDA18086",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/dd960d0c8c19.html",
@@ -5118,6 +4978,12 @@
       "name": "RAM 1500 Classic Crew Cab 4x4 (DS) ST (140.5 WB 5'7 Box) SWB2021 Ram",
       "vin": "3C6RR7KT9MG536225",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/ae525f98035d.html",
+      "condition": "used"
+    },
+    {
+      "name": "RAM 1500 Classic Crew Cab 4x4 (DS) SLT (140.5 WB 5'7 Box) SWB2021 Ram",
+      "vin": "1C6RR7LG4MS569482",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/edb2d2f0b807.html",
       "condition": "used"
     },
     {
@@ -5743,6 +5609,12 @@
       "condition": "used"
     },
     {
+      "name": "Outback 2.4L Wilderness Turbo2025 Subaru",
+      "vin": "4S4BTHTD753167501",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6e4d71554d9c.html",
+      "condition": "used"
+    },
+    {
       "name": "Outback 2.4L Limited XT Turbo2026 Subaru",
       "vin": "JF2BURHD2TY463662",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/f6abd31720d2.html",
@@ -5791,12 +5663,6 @@
       "condition": "used"
     },
     {
-      "name": "Model 3 Standard Range Plus2020 Tesla",
-      "vin": "5YJ3E1EA1LF670216",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/d505d4f308d3.html",
-      "condition": "used"
-    },
-    {
       "name": "Model 3 Standard Range Plus2021 Tesla",
       "vin": "5YJ3E1EA2MF048211",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/82e26f51154c.html",
@@ -5806,12 +5672,6 @@
       "name": "Model 3 Long Range AWD2023 Tesla",
       "vin": "5YJ3E1EB9PF676618",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/a6db30f51822.html",
-      "condition": "used"
-    },
-    {
-      "name": "Model 3 Long Range AWD2025 Tesla",
-      "vin": "5YJ3E1EB4SF932236",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/7aefd0e4db82.html",
       "condition": "used"
     },
     {
@@ -5896,6 +5756,12 @@
       "name": "4Runner2023 Toyota",
       "vin": "JTEKU5JRXP6105087",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/8a18a914b619.html",
+      "condition": "used"
+    },
+    {
+      "name": "4Runner2023 Toyota",
+      "vin": "JTENU5JR7P6090125",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/c1c381591519.html",
       "condition": "used"
     },
     {
@@ -6041,12 +5907,6 @@
       "condition": "used"
     },
     {
-      "name": "Sequoia Hybrid 4x4 TRD Off Road2023 Toyota",
-      "vin": "7SVAAABA0PX015148",
-      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/1d7e1913ba14.html",
-      "condition": "used"
-    },
-    {
       "name": "Sequoia Hybrid Sequoia Limited2026 Toyota",
       "vin": "7SVAAABA9TX092840",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/6837cd00a6b9.html",
@@ -6119,6 +5979,12 @@
       "condition": "used"
     },
     {
+      "name": "Tundra Hybrid CrewMax Limited2024 Toyota",
+      "vin": "5TFWC5DB3RX063138",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/3c9551d8353b.html",
+      "condition": "used"
+    },
+    {
       "name": "Tundra Hybrid CrewMax Limited2025 Toyota",
       "vin": "5TFWC5DB0SX094465",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/2a73f21b081c.html",
@@ -6142,6 +6008,12 @@
       "name": "Atlas Cross Sport Execline 2.0 TSI 4MOTION2025 Volkswagen",
       "vin": "1V2FE2CA4SC213979",
       "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/83a06ae7e76f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Beetle Wolfsburg Edition Convertible 2.0T 6sp at w/Tip2019 Volkswagen",
+      "vin": "3VW5DAAT5KM502332",
+      "url": "https://willyml1979-dotcom.github.io/vancouver-honda-mirror/used/1fedfe489545.html",
       "condition": "used"
     },
     {
